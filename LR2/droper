@@ -1,0 +1,1 @@
+DROP TABLE Executor, WorkExec, WorkCust, CustExec;

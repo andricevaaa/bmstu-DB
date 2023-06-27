@@ -1,0 +1,9 @@
+CREATE OR REPLACE PROCEDURE future_students(UniID INT) 
+AS $$
+BEGIN
+		PERFORM ApplicantID
+		FROM sch.Application
+		WHERE UniversityID = UniID;
+END;
+$$ LANGUAGE PLPGSQL;
+call future_students(256);

@@ -1,0 +1,13 @@
+create or replace function my_table_func(marks float) 
+returns table(ScholarshipID text, marks float)
+as $$
+    p = plpy.execute("SELECT ScholarshipID, ConditionalMarks FROM sch.Scholarship")
+    result = []
+    for i in range(len(p)):
+        s = p[i]["CondionalMarks"]
+        if (s > marks):
+            result.append({ "ScholarshipID": p[i]["ScholarshipID"],  "mark": s.rstrip()})
+    return result
+$$ language plpython3u;
+
+select * from my_table_func(3.80)

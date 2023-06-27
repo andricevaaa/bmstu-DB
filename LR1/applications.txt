@@ -1,0 +1,1050 @@
+1|379|434|950|22/10/2021|22/11/2021|Center of Science and Culture|denied
+2|851|243|100|08/01/2021|08/02/2021|Embassy|denied
+3|1023|250|986|06/01/2021|06/02/2021|Center of Science and Culture|denied
+4|434|314|569|24/04/2021|24/05/2021|Embassy|accepted
+5|197|24|386|18/02/2021|18/03/2021|Center of Science and Culture|denied
+6|644|409|251|27/08/2021|27/09/2021|Embassy|accepted
+7|562|981|581|29/09/2021|29/10/2021|Embassy|denied
+8|271|607|1034|25/06/2021|25/07/2021|Embassy|accepted
+9|154|549|27|22/12/2021|22/01/2022|Center of Science and Culture|pending
+10|8|718|810|10/07/2021|10/08/2021|Embassy|denied
+11|757|905|863|13/06/2021|13/07/2021|Center of Science and Culture|denied
+12|214|145|84|08/06/2021|08/07/2021|Embassy|denied
+13|284|393|457|12/08/2021|12/09/2021|Center of Science and Culture|pending
+14|560|625|864|29/08/2021|29/09/2021|Center of Science and Culture|accepted
+15|212|754|906|12/05/2021|12/06/2021|Embassy|denied
+16|489|343|608|12/08/2021|12/09/2021|Center of Science and Culture|pending
+17|282|992|275|14/12/2021|14/01/2022|Center of Science and Culture|accepted
+18|80|79|293|17/05/2021|17/06/2021|Embassy|accepted
+19|666|722|405|09/08/2021|09/09/2021|Embassy|pending
+20|868|647|202|08/11/2021|08/12/2021|Center of Science and Culture|pending
+21|925|954|130|27/01/2021|27/02/2021|Embassy|pending
+22|262|736|83|05/03/2021|05/04/2021|Center of Science and Culture|accepted
+23|80|900|210|10/12/2021|10/01/2022|Embassy|pending
+24|5|385|162|19/05/2021|19/06/2021|Center of Science and Culture|accepted
+25|305|628|662|21/07/2021|21/08/2021|Embassy|denied
+26|810|897|3|24/07/2021|24/08/2021|Center of Science and Culture|denied
+27|551|87|29|14/07/2021|14/08/2021|Center of Science and Culture|denied
+28|305|857|964|26/11/2021|26/12/2021|Center of Science and Culture|denied
+29|808|293|133|07/03/2021|07/04/2021|Center of Science and Culture|pending
+30|682|195|580|18/10/2021|18/11/2021|Center of Science and Culture|accepted
+31|187|664|616|23/02/2021|23/03/2021|Center of Science and Culture|accepted
+32|818|752|845|26/04/2021|26/05/2021|Center of Science and Culture|denied
+33|234|494|716|18/11/2021|18/12/2021|Embassy|accepted
+34|213|1031|53|22/02/2021|22/03/2021|Embassy|denied
+35|519|1002|814|19/07/2021|19/08/2021|Center of Science and Culture|accepted
+36|322|553|755|01/05/2021|01/06/2021|Embassy|pending
+37|631|699|123|29/10/2021|29/11/2021|Embassy|accepted
+38|896|56|463|07/07/2021|07/08/2021|Embassy|denied
+39|597|464|457|16/09/2021|16/10/2021|Embassy|accepted
+40|616|963|977|21/11/2021|21/12/2021|Embassy|pending
+41|847|272|686|11/11/2021|11/12/2021|Embassy|denied
+42|915|950|697|13/12/2021|13/01/2022|Embassy|accepted
+43|995|578|206|07/12/2021|07/01/2022|Center of Science and Culture|pending
+44|762|1020|701|29/04/2021|29/05/2021|Embassy|accepted
+45|378|966|391|05/06/2021|05/07/2021|Embassy|pending
+46|750|415|199|14/06/2021|14/07/2021|Center of Science and Culture|accepted
+47|894|23|561|06/08/2021|06/09/2021|Embassy|accepted
+48|122|837|1013|27/12/2021|27/01/2022|Center of Science and Culture|accepted
+49|722|696|364|14/10/2021|14/11/2021|Embassy|accepted
+50|167|778|372|25/05/2021|25/06/2021|Embassy|accepted
+51|35|786|373|21/01/2021|21/02/2021|Embassy|denied
+52|1045|1042|293|28/08/2021|28/09/2021|Center of Science and Culture|accepted
+53|584|314|743|21/11/2021|21/12/2021|Center of Science and Culture|pending
+54|602|978|526|16/11/2021|16/12/2021|Center of Science and Culture|pending
+55|743|497|664|04/04/2021|04/05/2021|Center of Science and Culture|accepted
+56|819|97|350|23/09/2021|23/10/2021|Embassy|pending
+57|436|1035|452|12/02/2021|12/03/2021|Embassy|accepted
+58|73|359|156|06/06/2021|06/07/2021|Embassy|accepted
+59|433|344|959|04/03/2021|04/04/2021|Embassy|denied
+60|172|847|1038|03/07/2021|03/08/2021|Embassy|accepted
+61|703|837|429|28/08/2021|28/09/2021|Embassy|pending
+62|419|349|134|10/08/2021|10/09/2021|Embassy|pending
+63|60|840|743|27/01/2021|27/02/2021|Embassy|accepted
+64|462|68|789|28/12/2021|28/01/2022|Embassy|denied
+65|187|661|173|23/09/2021|23/10/2021|Center of Science and Culture|accepted
+66|979|801|318|29/08/2021|29/09/2021|Embassy|pending
+67|544|784|309|09/11/2021|09/12/2021|Embassy|pending
+68|418|847|385|08/04/2021|08/05/2021|Embassy|denied
+69|308|819|783|23/05/2021|23/06/2021|Embassy|pending
+70|816|795|258|01/03/2021|01/04/2021|Center of Science and Culture|accepted
+71|989|726|288|18/08/2021|18/09/2021|Embassy|pending
+72|405|811|77|22/12/2021|22/01/2022|Center of Science and Culture|denied
+73|1010|221|343|20/03/2021|20/04/2021|Center of Science and Culture|pending
+74|383|837|688|26/05/2021|26/06/2021|Center of Science and Culture|accepted
+75|453|451|224|04/02/2021|04/03/2021|Embassy|accepted
+76|163|815|696|05/08/2021|05/09/2021|Embassy|accepted
+77|139|69|291|07/04/2021|07/05/2021|Embassy|denied
+78|50|22|627|16/08/2021|16/09/2021|Center of Science and Culture|pending
+79|694|636|864|17/08/2021|17/09/2021|Embassy|denied
+80|596|934|782|28/03/2021|28/04/2021|Embassy|accepted
+81|108|569|581|16/10/2021|16/11/2021|Center of Science and Culture|denied
+82|431|240|213|24/12/2021|24/01/2022|Center of Science and Culture|pending
+83|295|378|252|31/05/2021|31/06/2021|Center of Science and Culture|pending
+84|187|278|955|04/07/2021|04/08/2021|Center of Science and Culture|denied
+85|649|441|824|23/02/2021|23/03/2021|Center of Science and Culture|denied
+86|694|98|509|20/05/2021|20/06/2021|Embassy|accepted
+87|468|890|729|20/08/2021|20/09/2021|Embassy|denied
+88|511|612|189|28/08/2021|28/09/2021|Embassy|pending
+89|177|480|207|03/04/2021|03/05/2021|Embassy|accepted
+90|132|88|993|30/05/2021|30/06/2021|Embassy|pending
+91|725|368|609|04/09/2021|04/10/2021|Embassy|accepted
+92|38|474|484|19/01/2021|19/02/2021|Center of Science and Culture|denied
+93|308|233|52|23/08/2021|23/09/2021|Center of Science and Culture|denied
+94|1028|693|464|18/07/2021|18/08/2021|Embassy|denied
+95|87|124|643|26/09/2021|26/10/2021|Center of Science and Culture|denied
+96|439|563|202|12/11/2021|12/12/2021|Embassy|pending
+97|759|51|465|27/02/2021|27/03/2021|Center of Science and Culture|denied
+98|80|153|86|03/05/2021|03/06/2021|Embassy|accepted
+99|569|353|782|07/07/2021|07/08/2021|Center of Science and Culture|pending
+100|367|70|693|11/06/2021|11/07/2021|Embassy|pending
+101|924|1029|380|03/05/2021|03/06/2021|Center of Science and Culture|pending
+102|706|613|156|05/02/2021|05/03/2021|Embassy|pending
+103|889|907|194|12/01/2021|12/02/2021|Center of Science and Culture|denied
+104|911|223|426|16/09/2021|16/10/2021|Center of Science and Culture|pending
+105|10|684|278|23/05/2021|23/06/2021|Embassy|accepted
+106|976|128|600|15/07/2021|15/08/2021|Embassy|denied
+107|228|888|526|01/01/2021|01/02/2021|Center of Science and Culture|denied
+108|957|755|810|15/04/2021|15/05/2021|Embassy|accepted
+109|79|602|549|10/01/2021|10/02/2021|Center of Science and Culture|denied
+110|380|711|250|09/09/2021|09/10/2021|Center of Science and Culture|denied
+111|943|904|481|30/09/2021|30/10/2021|Embassy|pending
+112|47|1018|872|04/02/2021|04/03/2021|Center of Science and Culture|accepted
+113|523|923|83|30/11/2021|30/12/2021|Center of Science and Culture|accepted
+114|276|751|226|26/11/2021|26/12/2021|Center of Science and Culture|accepted
+115|932|536|354|22/07/2021|22/08/2021|Embassy|denied
+116|527|847|360|20/07/2021|20/08/2021|Center of Science and Culture|accepted
+117|724|484|358|24/07/2021|24/08/2021|Center of Science and Culture|accepted
+118|480|767|401|24/03/2021|24/04/2021|Center of Science and Culture|accepted
+119|655|113|973|22/04/2021|22/05/2021|Center of Science and Culture|accepted
+120|931|395|352|10/03/2021|10/04/2021|Center of Science and Culture|accepted
+121|186|1044|708|15/12/2021|15/01/2022|Embassy|accepted
+122|582|1007|1001|23/01/2021|23/02/2021|Embassy|denied
+123|727|368|284|25/04/2021|25/05/2021|Embassy|pending
+124|382|323|195|03/05/2021|03/06/2021|Center of Science and Culture|pending
+125|5|729|567|13/03/2021|13/04/2021|Center of Science and Culture|denied
+126|884|1012|443|17/07/2021|17/08/2021|Center of Science and Culture|pending
+127|972|480|339|02/05/2021|02/06/2021|Embassy|denied
+128|265|37|847|03/10/2021|03/11/2021|Embassy|pending
+129|173|136|322|06/02/2021|06/03/2021|Center of Science and Culture|denied
+130|65|450|371|12/04/2021|12/05/2021|Embassy|pending
+131|705|651|649|22/05/2021|22/06/2021|Center of Science and Culture|accepted
+132|1046|214|604|09/07/2021|09/08/2021|Embassy|denied
+133|149|951|1050|05/12/2021|05/01/2022|Center of Science and Culture|denied
+134|617|827|306|14/01/2021|14/02/2021|Embassy|pending
+135|936|271|549|01/10/2021|01/11/2021|Center of Science and Culture|denied
+136|607|244|769|15/05/2021|15/06/2021|Embassy|denied
+137|221|887|380|24/05/2021|24/06/2021|Center of Science and Culture|pending
+138|844|1015|416|22/09/2021|22/10/2021|Center of Science and Culture|accepted
+139|661|65|221|17/02/2021|17/03/2021|Center of Science and Culture|accepted
+140|1041|88|902|26/01/2021|26/02/2021|Embassy|pending
+141|448|100|591|11/02/2021|11/03/2021|Center of Science and Culture|pending
+142|290|212|335|21/11/2021|21/12/2021|Embassy|denied
+143|415|459|228|05/11/2021|05/12/2021|Center of Science and Culture|accepted
+144|630|711|427|19/09/2021|19/10/2021|Embassy|denied
+145|1009|172|206|01/11/2021|01/12/2021|Embassy|accepted
+146|1007|377|411|23/09/2021|23/10/2021|Center of Science and Culture|pending
+147|209|87|528|05/11/2021|05/12/2021|Embassy|pending
+148|1014|912|823|24/04/2021|24/05/2021|Embassy|accepted
+149|810|96|211|17/04/2021|17/05/2021|Embassy|pending
+150|86|120|67|22/07/2021|22/08/2021|Embassy|denied
+151|400|480|379|08/04/2021|08/05/2021|Embassy|accepted
+152|726|905|949|18/01/2021|18/02/2021|Center of Science and Culture|pending
+153|216|430|214|05/10/2021|05/11/2021|Embassy|denied
+154|828|1039|199|19/03/2021|19/04/2021|Center of Science and Culture|pending
+155|186|874|196|09/11/2021|09/12/2021|Embassy|pending
+156|953|261|799|22/08/2021|22/09/2021|Center of Science and Culture|pending
+157|509|312|168|19/12/2021|19/01/2022|Embassy|denied
+158|316|83|290|19/03/2021|19/04/2021|Center of Science and Culture|pending
+159|241|339|63|03/06/2021|03/07/2021|Embassy|denied
+160|623|689|500|04/06/2021|04/07/2021|Center of Science and Culture|pending
+161|1029|944|188|14/09/2021|14/10/2021|Center of Science and Culture|accepted
+162|130|732|533|04/06/2021|04/07/2021|Center of Science and Culture|accepted
+163|812|828|853|22/09/2021|22/10/2021|Center of Science and Culture|denied
+164|840|1036|518|08/03/2021|08/04/2021|Embassy|accepted
+165|896|167|87|02/01/2021|02/02/2021|Embassy|accepted
+166|117|1003|209|21/06/2021|21/07/2021|Center of Science and Culture|denied
+167|223|953|977|26/11/2021|26/12/2021|Embassy|accepted
+168|367|228|64|25/08/2021|25/09/2021|Embassy|denied
+169|464|434|1006|05/11/2021|05/12/2021|Center of Science and Culture|accepted
+170|332|519|575|13/08/2021|13/09/2021|Center of Science and Culture|denied
+171|145|762|38|17/04/2021|17/05/2021|Embassy|pending
+172|852|408|753|30/07/2021|30/08/2021|Embassy|pending
+173|796|487|1024|15/12/2021|15/01/2022|Embassy|pending
+174|36|437|18|27/03/2021|27/04/2021|Center of Science and Culture|denied
+175|470|277|685|07/10/2021|07/11/2021|Embassy|pending
+176|218|844|16|27/11/2021|27/12/2021|Embassy|accepted
+177|17|469|1018|22/01/2021|22/02/2021|Embassy|pending
+178|837|645|286|06/06/2021|06/07/2021|Embassy|denied
+179|658|269|19|21/10/2021|21/11/2021|Embassy|pending
+180|846|221|552|19/07/2021|19/08/2021|Center of Science and Culture|denied
+181|152|86|158|22/10/2021|22/11/2021|Embassy|accepted
+182|558|425|113|26/02/2021|26/03/2021|Center of Science and Culture|denied
+183|680|605|849|29/05/2021|29/06/2021|Embassy|accepted
+184|982|265|5|23/05/2021|23/06/2021|Embassy|pending
+185|1026|462|426|24/08/2021|24/09/2021|Center of Science and Culture|denied
+186|4|785|314|28/02/2021|28/03/2021|Embassy|pending
+187|566|882|131|21/11/2021|21/12/2021|Center of Science and Culture|denied
+188|545|198|427|28/02/2021|28/03/2021|Center of Science and Culture|pending
+189|730|1014|396|17/08/2021|17/09/2021|Center of Science and Culture|pending
+190|384|359|1046|13/01/2021|13/02/2021|Center of Science and Culture|pending
+191|816|483|590|05/04/2021|05/05/2021|Embassy|denied
+192|637|108|305|03/05/2021|03/06/2021|Center of Science and Culture|pending
+193|1019|156|964|23/04/2021|23/05/2021|Center of Science and Culture|denied
+194|471|565|813|12/07/2021|12/08/2021|Embassy|denied
+195|48|107|963|19/01/2021|19/02/2021|Center of Science and Culture|pending
+196|232|776|735|13/08/2021|13/09/2021|Embassy|denied
+197|959|428|350|27/07/2021|27/08/2021|Center of Science and Culture|denied
+198|915|922|353|30/04/2021|30/05/2021|Center of Science and Culture|pending
+199|255|883|411|12/11/2021|12/12/2021|Embassy|accepted
+200|981|237|47|22/08/2021|22/09/2021|Center of Science and Culture|pending
+201|305|17|297|22/08/2021|22/09/2021|Center of Science and Culture|accepted
+202|479|406|343|22/04/2021|22/05/2021|Center of Science and Culture|accepted
+203|717|644|50|18/08/2021|18/09/2021|Embassy|accepted
+204|46|177|719|17/03/2021|17/04/2021|Center of Science and Culture|denied
+205|148|453|311|23/11/2021|23/12/2021|Embassy|accepted
+206|573|811|758|07/03/2021|07/04/2021|Center of Science and Culture|accepted
+207|387|122|86|24/08/2021|24/09/2021|Embassy|pending
+208|850|312|67|01/02/2021|01/03/2021|Embassy|accepted
+209|535|1041|997|12/11/2021|12/12/2021|Center of Science and Culture|denied
+210|626|178|1034|27/09/2021|27/10/2021|Embassy|accepted
+211|468|1016|922|17/02/2021|17/03/2021|Embassy|accepted
+212|354|355|696|12/03/2021|12/04/2021|Center of Science and Culture|denied
+213|1024|631|103|14/10/2021|14/11/2021|Center of Science and Culture|denied
+214|876|306|896|02/01/2021|02/02/2021|Center of Science and Culture|accepted
+215|573|742|145|21/01/2021|21/02/2021|Center of Science and Culture|denied
+216|410|188|996|11/03/2021|11/04/2021|Embassy|pending
+217|837|56|223|02/08/2021|02/09/2021|Embassy|pending
+218|76|831|403|21/09/2021|21/10/2021|Embassy|accepted
+219|542|582|884|13/07/2021|13/08/2021|Center of Science and Culture|pending
+220|301|6|153|18/07/2021|18/08/2021|Embassy|denied
+221|141|1038|98|03/06/2021|03/07/2021|Embassy|denied
+222|457|953|708|20/12/2021|20/01/2022|Embassy|pending
+223|396|973|382|01/07/2021|01/08/2021|Center of Science and Culture|denied
+224|292|1002|783|09/03/2021|09/04/2021|Embassy|accepted
+225|246|240|443|12/07/2021|12/08/2021|Embassy|pending
+226|360|477|892|08/05/2021|08/06/2021|Center of Science and Culture|accepted
+227|523|859|100|24/06/2021|24/07/2021|Embassy|accepted
+228|791|732|927|06/10/2021|06/11/2021|Center of Science and Culture|denied
+229|935|1029|481|29/07/2021|29/08/2021|Center of Science and Culture|pending
+230|564|317|474|04/07/2021|04/08/2021|Embassy|pending
+231|331|249|1|08/06/2021|08/07/2021|Embassy|accepted
+232|891|979|312|13/12/2021|13/01/2022|Center of Science and Culture|pending
+233|547|624|35|09/12/2021|09/01/2022|Center of Science and Culture|pending
+234|320|1049|85|24/02/2021|24/03/2021|Embassy|denied
+235|928|539|153|21/01/2021|21/02/2021|Center of Science and Culture|denied
+236|325|874|607|12/03/2021|12/04/2021|Center of Science and Culture|denied
+237|333|675|751|01/07/2021|01/08/2021|Embassy|denied
+238|238|26|694|10/02/2021|10/03/2021|Center of Science and Culture|accepted
+239|965|16|529|19/04/2021|19/05/2021|Embassy|accepted
+240|300|543|546|23/01/2021|23/02/2021|Embassy|accepted
+241|231|149|405|03/07/2021|03/08/2021|Embassy|denied
+242|338|896|612|23/05/2021|23/06/2021|Embassy|pending
+243|677|747|729|01/04/2021|01/05/2021|Embassy|denied
+244|802|911|360|06/03/2021|06/04/2021|Embassy|denied
+245|50|142|93|27/05/2021|27/06/2021|Embassy|denied
+246|27|659|13|07/04/2021|07/05/2021|Center of Science and Culture|pending
+247|1029|254|937|21/10/2021|21/11/2021|Center of Science and Culture|accepted
+248|307|25|79|19/11/2021|19/12/2021|Center of Science and Culture|pending
+249|616|726|922|05/07/2021|05/08/2021|Center of Science and Culture|pending
+250|174|898|920|26/10/2021|26/11/2021|Embassy|accepted
+251|130|577|220|05/07/2021|05/08/2021|Embassy|accepted
+252|860|683|761|19/03/2021|19/04/2021|Embassy|denied
+253|554|1004|94|01/06/2021|01/07/2021|Center of Science and Culture|accepted
+254|224|368|545|28/07/2021|28/08/2021|Center of Science and Culture|denied
+255|289|816|715|22/08/2021|22/09/2021|Embassy|denied
+256|36|852|505|30/01/2021|30/02/2021|Center of Science and Culture|pending
+257|269|522|252|07/04/2021|07/05/2021|Center of Science and Culture|denied
+258|900|49|812|23/12/2021|23/01/2022|Center of Science and Culture|accepted
+259|379|759|841|12/06/2021|12/07/2021|Embassy|accepted
+260|94|929|763|15/03/2021|15/04/2021|Embassy|denied
+261|50|1020|541|07/02/2021|07/03/2021|Embassy|pending
+262|597|387|887|03/09/2021|03/10/2021|Center of Science and Culture|accepted
+263|494|304|600|31/10/2021|31/11/2021|Center of Science and Culture|pending
+264|232|361|556|22/12/2021|22/01/2022|Embassy|accepted
+265|87|347|432|16/05/2021|16/06/2021|Center of Science and Culture|pending
+266|123|633|901|25/05/2021|25/06/2021|Center of Science and Culture|denied
+267|29|301|698|17/05/2021|17/06/2021|Center of Science and Culture|denied
+268|537|334|215|06/04/2021|06/05/2021|Embassy|accepted
+269|844|8|824|01/06/2021|01/07/2021|Embassy|accepted
+270|1011|639|25|01/09/2021|01/10/2021|Embassy|accepted
+271|946|1016|838|26/10/2021|26/11/2021|Center of Science and Culture|accepted
+272|168|603|327|23/06/2021|23/07/2021|Center of Science and Culture|pending
+273|759|941|703|04/08/2021|04/09/2021|Embassy|accepted
+274|843|38|532|23/04/2021|23/05/2021|Center of Science and Culture|pending
+275|394|876|67|24/10/2021|24/11/2021|Center of Science and Culture|denied
+276|333|1015|161|21/03/2021|21/04/2021|Center of Science and Culture|denied
+277|828|684|1016|06/04/2021|06/05/2021|Center of Science and Culture|denied
+278|193|459|503|20/02/2021|20/03/2021|Center of Science and Culture|denied
+279|204|385|1046|14/03/2021|14/04/2021|Embassy|pending
+280|1019|389|898|25/07/2021|25/08/2021|Center of Science and Culture|accepted
+281|460|989|391|10/01/2021|10/02/2021|Center of Science and Culture|denied
+282|20|946|576|08/12/2021|08/01/2022|Center of Science and Culture|denied
+283|1009|825|473|11/05/2021|11/06/2021|Embassy|pending
+284|421|955|366|11/06/2021|11/07/2021|Center of Science and Culture|denied
+285|456|848|117|17/05/2021|17/06/2021|Center of Science and Culture|pending
+286|42|433|733|16/02/2021|16/03/2021|Embassy|pending
+287|109|424|115|16/10/2021|16/11/2021|Embassy|denied
+288|906|531|561|21/12/2021|21/01/2022|Center of Science and Culture|denied
+289|395|970|128|17/07/2021|17/08/2021|Center of Science and Culture|pending
+290|281|229|739|17/07/2021|17/08/2021|Center of Science and Culture|denied
+291|325|422|659|11/10/2021|11/11/2021|Embassy|pending
+292|579|229|556|23/09/2021|23/10/2021|Center of Science and Culture|denied
+293|251|90|243|19/04/2021|19/05/2021|Embassy|pending
+294|193|378|247|01/05/2021|01/06/2021|Embassy|pending
+295|405|822|421|23/06/2021|23/07/2021|Embassy|pending
+296|6|638|579|20/06/2021|20/07/2021|Embassy|pending
+297|441|914|577|17/04/2021|17/05/2021|Center of Science and Culture|accepted
+298|556|712|346|27/11/2021|27/12/2021|Center of Science and Culture|accepted
+299|122|1012|251|07/02/2021|07/03/2021|Embassy|accepted
+300|41|394|466|24/06/2021|24/07/2021|Embassy|denied
+301|73|631|374|26/09/2021|26/10/2021|Embassy|accepted
+302|117|342|198|11/04/2021|11/05/2021|Center of Science and Culture|pending
+303|396|73|1037|27/01/2021|27/02/2021|Embassy|denied
+304|738|637|650|24/08/2021|24/09/2021|Embassy|pending
+305|902|908|301|21/08/2021|21/09/2021|Embassy|denied
+306|1000|516|62|15/10/2021|15/11/2021|Center of Science and Culture|accepted
+307|293|819|437|25/11/2021|25/12/2021|Embassy|pending
+308|1050|104|612|17/04/2021|17/05/2021|Center of Science and Culture|pending
+309|305|193|413|13/03/2021|13/04/2021|Center of Science and Culture|pending
+310|439|670|854|06/01/2021|06/02/2021|Center of Science and Culture|denied
+311|1008|721|98|06/02/2021|06/03/2021|Center of Science and Culture|accepted
+312|262|988|564|29/10/2021|29/11/2021|Center of Science and Culture|pending
+313|789|1030|489|03/06/2021|03/07/2021|Center of Science and Culture|pending
+314|496|404|361|07/08/2021|07/09/2021|Center of Science and Culture|accepted
+315|236|84|886|12/05/2021|12/06/2021|Center of Science and Culture|denied
+316|537|405|130|03/11/2021|03/12/2021|Center of Science and Culture|denied
+317|61|999|942|12/10/2021|12/11/2021|Embassy|denied
+318|702|917|528|21/10/2021|21/11/2021|Embassy|pending
+319|858|1041|903|11/08/2021|11/09/2021|Center of Science and Culture|denied
+320|595|260|989|22/04/2021|22/05/2021|Embassy|accepted
+321|1005|786|559|11/09/2021|11/10/2021|Embassy|denied
+322|525|158|587|15/07/2021|15/08/2021|Embassy|accepted
+323|749|541|574|18/06/2021|18/07/2021|Center of Science and Culture|denied
+324|831|475|55|23/07/2021|23/08/2021|Center of Science and Culture|accepted
+325|607|164|41|12/01/2021|12/02/2021|Embassy|denied
+326|384|138|505|20/09/2021|20/10/2021|Embassy|denied
+327|815|780|132|07/01/2021|07/02/2021|Center of Science and Culture|denied
+328|441|449|818|07/06/2021|07/07/2021|Embassy|denied
+329|101|910|764|23/02/2021|23/03/2021|Embassy|pending
+330|132|115|351|12/02/2021|12/03/2021|Center of Science and Culture|denied
+331|1000|469|550|01/04/2021|01/05/2021|Center of Science and Culture|denied
+332|467|632|551|17/04/2021|17/05/2021|Embassy|pending
+333|474|470|217|26/04/2021|26/05/2021|Center of Science and Culture|pending
+334|370|552|311|19/06/2021|19/07/2021|Embassy|pending
+335|225|650|947|30/11/2021|30/12/2021|Embassy|denied
+336|19|919|680|13/06/2021|13/07/2021|Center of Science and Culture|denied
+337|945|349|278|03/06/2021|03/07/2021|Embassy|accepted
+338|146|993|949|27/05/2021|27/06/2021|Embassy|accepted
+339|610|1006|443|02/10/2021|02/11/2021|Embassy|accepted
+340|838|1008|860|21/09/2021|21/10/2021|Embassy|denied
+341|57|584|339|09/02/2021|09/03/2021|Embassy|accepted
+342|691|656|1001|13/07/2021|13/08/2021|Embassy|accepted
+343|1015|970|234|13/11/2021|13/12/2021|Embassy|pending
+344|154|959|769|03/11/2021|03/12/2021|Embassy|denied
+345|811|902|770|26/03/2021|26/04/2021|Embassy|pending
+346|573|492|556|05/08/2021|05/09/2021|Center of Science and Culture|denied
+347|98|432|919|08/09/2021|08/10/2021|Embassy|denied
+348|741|460|546|14/11/2021|14/12/2021|Embassy|accepted
+349|934|199|52|24/02/2021|24/03/2021|Embassy|accepted
+350|262|852|495|10/04/2021|10/05/2021|Center of Science and Culture|accepted
+351|397|240|161|22/04/2021|22/05/2021|Center of Science and Culture|accepted
+352|131|863|163|23/11/2021|23/12/2021|Embassy|denied
+353|643|465|205|24/12/2021|24/01/2022|Embassy|accepted
+354|524|551|480|23/08/2021|23/09/2021|Embassy|denied
+355|450|932|326|21/08/2021|21/09/2021|Embassy|pending
+356|500|534|1041|26/09/2021|26/10/2021|Center of Science and Culture|denied
+357|1037|64|659|15/05/2021|15/06/2021|Embassy|pending
+358|116|611|961|10/05/2021|10/06/2021|Embassy|accepted
+359|313|47|18|27/08/2021|27/09/2021|Center of Science and Culture|denied
+360|548|208|821|06/02/2021|06/03/2021|Embassy|accepted
+361|1001|1042|429|25/02/2021|25/03/2021|Embassy|accepted
+362|542|834|68|23/04/2021|23/05/2021|Center of Science and Culture|accepted
+363|853|22|149|06/03/2021|06/04/2021|Embassy|denied
+364|251|470|516|17/03/2021|17/04/2021|Embassy|accepted
+365|363|1014|858|28/03/2021|28/04/2021|Center of Science and Culture|accepted
+366|865|135|205|02/08/2021|02/09/2021|Center of Science and Culture|denied
+367|476|945|903|12/03/2021|12/04/2021|Center of Science and Culture|pending
+368|618|347|530|20/08/2021|20/09/2021|Embassy|accepted
+369|730|594|828|28/02/2021|28/03/2021|Embassy|accepted
+370|750|176|1044|07/11/2021|07/12/2021|Embassy|denied
+371|316|124|604|08/10/2021|08/11/2021|Center of Science and Culture|denied
+372|68|538|439|21/08/2021|21/09/2021|Embassy|denied
+373|744|296|698|13/02/2021|13/03/2021|Center of Science and Culture|accepted
+374|204|284|764|13/05/2021|13/06/2021|Center of Science and Culture|pending
+375|566|191|284|09/08/2021|09/09/2021|Embassy|pending
+376|935|362|412|30/09/2021|30/10/2021|Center of Science and Culture|accepted
+377|75|908|408|25/09/2021|25/10/2021|Embassy|denied
+378|163|143|574|28/05/2021|28/06/2021|Embassy|pending
+379|221|768|686|20/02/2021|20/03/2021|Embassy|pending
+380|991|1014|221|16/01/2021|16/02/2021|Center of Science and Culture|accepted
+381|815|331|290|17/10/2021|17/11/2021|Center of Science and Culture|accepted
+382|144|973|663|11/01/2021|11/02/2021|Center of Science and Culture|denied
+383|722|497|403|10/05/2021|10/06/2021|Embassy|accepted
+384|667|370|48|11/01/2021|11/02/2021|Center of Science and Culture|denied
+385|779|596|670|25/07/2021|25/08/2021|Center of Science and Culture|accepted
+386|544|896|474|02/01/2021|02/02/2021|Embassy|denied
+387|1027|537|200|02/09/2021|02/10/2021|Embassy|pending
+388|349|442|428|02/06/2021|02/07/2021|Center of Science and Culture|pending
+389|590|568|405|27/12/2021|27/01/2022|Embassy|denied
+390|921|142|847|05/11/2021|05/12/2021|Embassy|denied
+391|574|598|838|20/12/2021|20/01/2022|Center of Science and Culture|denied
+392|269|1041|805|06/06/2021|06/07/2021|Center of Science and Culture|pending
+393|93|964|151|13/09/2021|13/10/2021|Center of Science and Culture|accepted
+394|695|207|587|10/09/2021|10/10/2021|Embassy|pending
+395|418|116|544|02/02/2021|02/03/2021|Embassy|denied
+396|746|228|1038|03/06/2021|03/07/2021|Embassy|pending
+397|895|207|969|24/09/2021|24/10/2021|Embassy|accepted
+398|392|72|219|17/12/2021|17/01/2022|Center of Science and Culture|accepted
+399|565|926|724|24/08/2021|24/09/2021|Center of Science and Culture|denied
+400|367|853|897|11/07/2021|11/08/2021|Embassy|accepted
+401|383|218|499|07/10/2021|07/11/2021|Center of Science and Culture|accepted
+402|165|2|871|14/11/2021|14/12/2021|Center of Science and Culture|accepted
+403|61|744|529|11/09/2021|11/10/2021|Center of Science and Culture|denied
+404|89|140|312|31/01/2021|31/02/2021|Embassy|accepted
+405|956|81|615|14/06/2021|14/07/2021|Embassy|denied
+406|527|686|207|07/04/2021|07/05/2021|Embassy|accepted
+407|256|643|678|16/09/2021|16/10/2021|Embassy|denied
+408|346|668|15|04/02/2021|04/03/2021|Center of Science and Culture|pending
+409|445|383|522|11/11/2021|11/12/2021|Center of Science and Culture|denied
+410|792|792|956|17/12/2021|17/01/2022|Center of Science and Culture|denied
+411|509|7|25|04/05/2021|04/06/2021|Embassy|pending
+412|103|237|764|17/02/2021|17/03/2021|Center of Science and Culture|denied
+413|514|791|448|25/12/2021|25/01/2022|Embassy|accepted
+414|290|829|247|30/11/2021|30/12/2021|Embassy|denied
+415|204|559|918|18/02/2021|18/03/2021|Embassy|denied
+416|780|167|910|04/07/2021|04/08/2021|Center of Science and Culture|denied
+417|475|786|220|03/10/2021|03/11/2021|Center of Science and Culture|pending
+418|818|104|763|28/01/2021|28/02/2021|Center of Science and Culture|accepted
+419|126|960|611|31/10/2021|31/11/2021|Embassy|denied
+420|753|703|27|02/08/2021|02/09/2021|Embassy|pending
+421|723|558|64|14/11/2021|14/12/2021|Center of Science and Culture|accepted
+422|74|901|265|12/10/2021|12/11/2021|Center of Science and Culture|accepted
+423|915|299|560|27/12/2021|27/01/2022|Center of Science and Culture|denied
+424|232|406|793|26/01/2021|26/02/2021|Center of Science and Culture|pending
+425|158|748|843|26/10/2021|26/11/2021|Center of Science and Culture|denied
+426|207|863|718|11/05/2021|11/06/2021|Embassy|denied
+427|363|81|748|16/06/2021|16/07/2021|Embassy|pending
+428|841|248|310|04/02/2021|04/03/2021|Embassy|accepted
+429|275|110|813|27/01/2021|27/02/2021|Center of Science and Culture|pending
+430|504|82|891|15/02/2021|15/03/2021|Center of Science and Culture|pending
+431|194|71|587|04/07/2021|04/08/2021|Embassy|pending
+432|588|313|8|22/06/2021|22/07/2021|Embassy|pending
+433|545|11|285|08/03/2021|08/04/2021|Embassy|pending
+434|517|81|154|28/09/2021|28/10/2021|Embassy|denied
+435|755|390|240|03/01/2021|03/02/2021|Embassy|pending
+436|91|225|235|15/11/2021|15/12/2021|Embassy|pending
+437|410|135|337|01/04/2021|01/05/2021|Embassy|pending
+438|680|819|857|03/02/2021|03/03/2021|Center of Science and Culture|denied
+439|313|634|195|22/08/2021|22/09/2021|Embassy|accepted
+440|613|196|352|27/01/2021|27/02/2021|Embassy|accepted
+441|837|734|816|17/10/2021|17/11/2021|Center of Science and Culture|accepted
+442|650|114|712|23/02/2021|23/03/2021|Embassy|pending
+443|770|111|872|31/03/2021|31/04/2021|Embassy|denied
+444|697|991|1027|22/11/2021|22/12/2021|Center of Science and Culture|denied
+445|121|27|441|28/11/2021|28/12/2021|Center of Science and Culture|pending
+446|489|275|960|03/11/2021|03/12/2021|Embassy|pending
+447|974|109|208|15/12/2021|15/01/2022|Embassy|accepted
+448|393|172|851|02/06/2021|02/07/2021|Center of Science and Culture|accepted
+449|180|966|897|14/09/2021|14/10/2021|Embassy|denied
+450|875|935|143|11/06/2021|11/07/2021|Embassy|denied
+451|395|87|726|15/02/2021|15/03/2021|Embassy|accepted
+452|603|198|199|06/11/2021|06/12/2021|Embassy|pending
+453|91|975|152|03/05/2021|03/06/2021|Center of Science and Culture|accepted
+454|467|619|1012|16/11/2021|16/12/2021|Center of Science and Culture|accepted
+455|884|325|292|08/08/2021|08/09/2021|Embassy|accepted
+456|300|210|164|23/07/2021|23/08/2021|Embassy|accepted
+457|250|841|349|22/07/2021|22/08/2021|Center of Science and Culture|pending
+458|499|309|558|18/04/2021|18/05/2021|Center of Science and Culture|accepted
+459|477|875|703|27/12/2021|27/01/2022|Embassy|denied
+460|758|821|197|17/06/2021|17/07/2021|Center of Science and Culture|accepted
+461|976|121|362|04/05/2021|04/06/2021|Center of Science and Culture|denied
+462|968|89|346|26/01/2021|26/02/2021|Embassy|accepted
+463|293|51|1034|05/01/2021|05/02/2021|Embassy|accepted
+464|260|438|54|01/04/2021|01/05/2021|Embassy|denied
+465|48|840|765|28/09/2021|28/10/2021|Embassy|pending
+466|920|797|493|22/03/2021|22/04/2021|Embassy|pending
+467|694|68|133|01/07/2021|01/08/2021|Center of Science and Culture|accepted
+468|271|587|334|04/04/2021|04/05/2021|Embassy|accepted
+469|297|1047|777|03/02/2021|03/03/2021|Embassy|denied
+470|251|631|977|08/10/2021|08/11/2021|Embassy|denied
+471|593|921|602|01/06/2021|01/07/2021|Embassy|denied
+472|3|478|937|10/10/2021|10/11/2021|Center of Science and Culture|denied
+473|24|920|887|29/05/2021|29/06/2021|Embassy|accepted
+474|43|906|302|22/02/2021|22/03/2021|Center of Science and Culture|denied
+475|666|769|718|25/08/2021|25/09/2021|Embassy|denied
+476|561|493|100|11/09/2021|11/10/2021|Embassy|accepted
+477|848|487|1022|14/04/2021|14/05/2021|Center of Science and Culture|denied
+478|506|738|951|09/02/2021|09/03/2021|Center of Science and Culture|pending
+479|316|36|734|23/06/2021|23/07/2021|Center of Science and Culture|denied
+480|677|142|142|08/09/2021|08/10/2021|Center of Science and Culture|pending
+481|108|1029|329|17/06/2021|17/07/2021|Embassy|pending
+482|887|315|858|29/01/2021|29/02/2021|Embassy|denied
+483|821|471|818|26/05/2021|26/06/2021|Embassy|pending
+484|965|630|904|06/09/2021|06/10/2021|Center of Science and Culture|pending
+485|309|977|416|01/07/2021|01/08/2021|Embassy|denied
+486|120|65|993|04/07/2021|04/08/2021|Center of Science and Culture|pending
+487|170|59|243|15/09/2021|15/10/2021|Center of Science and Culture|accepted
+488|253|720|892|05/10/2021|05/11/2021|Center of Science and Culture|accepted
+489|190|295|754|11/12/2021|11/01/2022|Center of Science and Culture|pending
+490|199|770|479|16/08/2021|16/09/2021|Center of Science and Culture|denied
+491|984|440|191|09/06/2021|09/07/2021|Embassy|accepted
+492|846|547|793|15/05/2021|15/06/2021|Embassy|denied
+493|1026|812|479|17/04/2021|17/05/2021|Center of Science and Culture|denied
+494|823|502|62|28/11/2021|28/12/2021|Center of Science and Culture|denied
+495|888|972|983|08/10/2021|08/11/2021|Center of Science and Culture|accepted
+496|671|988|332|10/11/2021|10/12/2021|Center of Science and Culture|accepted
+497|773|725|151|02/09/2021|02/10/2021|Embassy|pending
+498|917|829|916|01/12/2021|01/01/2022|Center of Science and Culture|accepted
+499|276|302|707|30/08/2021|30/09/2021|Center of Science and Culture|denied
+500|461|659|871|08/09/2021|08/10/2021|Center of Science and Culture|pending
+501|1027|149|16|04/06/2021|04/07/2021|Embassy|accepted
+502|795|415|896|22/03/2021|22/04/2021|Embassy|accepted
+503|209|519|1036|23/05/2021|23/06/2021|Embassy|pending
+504|68|816|200|14/11/2021|14/12/2021|Center of Science and Culture|accepted
+505|292|422|689|17/10/2021|17/11/2021|Embassy|denied
+506|64|881|972|24/04/2021|24/05/2021|Embassy|accepted
+507|40|866|551|19/02/2021|19/03/2021|Center of Science and Culture|denied
+508|777|243|794|28/06/2021|28/07/2021|Embassy|pending
+509|759|424|68|12/11/2021|12/12/2021|Center of Science and Culture|pending
+510|703|653|876|18/12/2021|18/01/2022|Center of Science and Culture|denied
+511|84|779|640|29/10/2021|29/11/2021|Embassy|pending
+512|957|296|556|26/07/2021|26/08/2021|Center of Science and Culture|accepted
+513|628|1035|152|06/10/2021|06/11/2021|Embassy|pending
+514|59|791|172|22/05/2021|22/06/2021|Center of Science and Culture|accepted
+515|1017|597|621|31/07/2021|31/08/2021|Center of Science and Culture|denied
+516|364|362|402|25/08/2021|25/09/2021|Embassy|accepted
+517|891|174|524|25/11/2021|25/12/2021|Embassy|pending
+518|712|337|804|03/02/2021|03/03/2021|Embassy|pending
+519|823|71|148|16/01/2021|16/02/2021|Center of Science and Culture|denied
+520|813|571|300|28/01/2021|28/02/2021|Embassy|pending
+521|743|454|725|17/08/2021|17/09/2021|Center of Science and Culture|pending
+522|132|218|663|16/11/2021|16/12/2021|Center of Science and Culture|denied
+523|964|818|856|08/09/2021|08/10/2021|Center of Science and Culture|accepted
+524|937|5|643|28/07/2021|28/08/2021|Center of Science and Culture|denied
+525|550|252|683|15/04/2021|15/05/2021|Embassy|accepted
+526|595|581|87|20/03/2021|20/04/2021|Embassy|pending
+527|657|586|425|18/05/2021|18/06/2021|Center of Science and Culture|denied
+528|163|294|120|01/05/2021|01/06/2021|Embassy|accepted
+529|713|294|124|09/04/2021|09/05/2021|Embassy|pending
+530|972|182|951|30/11/2021|30/12/2021|Center of Science and Culture|denied
+531|351|1035|663|20/09/2021|20/10/2021|Embassy|accepted
+532|460|678|960|04/07/2021|04/08/2021|Embassy|denied
+533|692|277|612|12/08/2021|12/09/2021|Center of Science and Culture|accepted
+534|612|1027|523|10/05/2021|10/06/2021|Embassy|accepted
+535|566|292|594|25/03/2021|25/04/2021|Embassy|accepted
+536|790|1025|672|25/12/2021|25/01/2022|Center of Science and Culture|pending
+537|860|299|269|15/02/2021|15/03/2021|Center of Science and Culture|denied
+538|783|989|223|03/12/2021|03/01/2022|Center of Science and Culture|denied
+539|10|102|320|22/11/2021|22/12/2021|Center of Science and Culture|accepted
+540|465|933|495|31/10/2021|31/11/2021|Embassy|denied
+541|560|1042|874|25/04/2021|25/05/2021|Center of Science and Culture|accepted
+542|350|466|905|04/06/2021|04/07/2021|Embassy|accepted
+543|837|553|247|16/03/2021|16/04/2021|Center of Science and Culture|accepted
+544|175|664|43|29/11/2021|29/12/2021|Embassy|accepted
+545|505|841|975|24/07/2021|24/08/2021|Embassy|denied
+546|345|539|367|29/09/2021|29/10/2021|Embassy|denied
+547|508|564|1035|24/01/2021|24/02/2021|Center of Science and Culture|accepted
+548|737|626|293|26/05/2021|26/06/2021|Center of Science and Culture|accepted
+549|144|22|33|27/09/2021|27/10/2021|Embassy|accepted
+550|545|954|409|29/03/2021|29/04/2021|Embassy|denied
+551|847|359|869|03/03/2021|03/04/2021|Center of Science and Culture|denied
+552|819|1042|659|03/03/2021|03/04/2021|Embassy|denied
+553|791|401|119|16/05/2021|16/06/2021|Center of Science and Culture|accepted
+554|971|296|279|12/09/2021|12/10/2021|Center of Science and Culture|denied
+555|453|97|1014|26/02/2021|26/03/2021|Embassy|accepted
+556|748|357|92|28/05/2021|28/06/2021|Center of Science and Culture|accepted
+557|530|343|739|16/09/2021|16/10/2021|Center of Science and Culture|denied
+558|998|708|473|28/03/2021|28/04/2021|Center of Science and Culture|accepted
+559|374|62|857|20/05/2021|20/06/2021|Embassy|denied
+560|326|133|173|11/08/2021|11/09/2021|Embassy|accepted
+561|574|833|1036|11/04/2021|11/05/2021|Embassy|pending
+562|850|189|365|04/09/2021|04/10/2021|Embassy|pending
+563|1020|801|174|13/01/2021|13/02/2021|Center of Science and Culture|denied
+564|309|485|657|03/03/2021|03/04/2021|Center of Science and Culture|denied
+565|356|789|104|08/01/2021|08/02/2021|Center of Science and Culture|pending
+566|277|560|159|18/04/2021|18/05/2021|Center of Science and Culture|accepted
+567|598|292|348|10/03/2021|10/04/2021|Embassy|pending
+568|31|226|212|04/03/2021|04/04/2021|Center of Science and Culture|denied
+569|431|580|966|21/04/2021|21/05/2021|Center of Science and Culture|denied
+570|728|945|393|17/02/2021|17/03/2021|Center of Science and Culture|pending
+571|810|40|528|13/12/2021|13/01/2022|Embassy|denied
+572|899|723|849|18/11/2021|18/12/2021|Embassy|pending
+573|805|911|665|19/11/2021|19/12/2021|Center of Science and Culture|denied
+574|473|424|1002|30/05/2021|30/06/2021|Center of Science and Culture|accepted
+575|91|134|862|20/06/2021|20/07/2021|Center of Science and Culture|accepted
+576|953|323|604|08/04/2021|08/05/2021|Center of Science and Culture|accepted
+577|75|1045|575|30/01/2021|30/02/2021|Center of Science and Culture|accepted
+578|140|649|434|07/10/2021|07/11/2021|Center of Science and Culture|accepted
+579|373|103|201|28/10/2021|28/11/2021|Embassy|accepted
+580|223|367|514|03/10/2021|03/11/2021|Embassy|accepted
+581|675|642|892|06/04/2021|06/05/2021|Embassy|accepted
+582|629|804|640|17/10/2021|17/11/2021|Center of Science and Culture|pending
+583|590|505|559|11/06/2021|11/07/2021|Embassy|denied
+584|474|516|334|25/07/2021|25/08/2021|Embassy|denied
+585|300|1041|592|13/04/2021|13/05/2021|Embassy|pending
+586|910|738|272|12/10/2021|12/11/2021|Center of Science and Culture|accepted
+587|816|467|475|13/05/2021|13/06/2021|Center of Science and Culture|pending
+588|984|373|132|21/08/2021|21/09/2021|Center of Science and Culture|accepted
+589|995|473|49|20/03/2021|20/04/2021|Center of Science and Culture|accepted
+590|699|52|187|21/02/2021|21/03/2021|Embassy|denied
+591|572|630|681|07/08/2021|07/09/2021|Center of Science and Culture|accepted
+592|282|761|514|27/03/2021|27/04/2021|Embassy|denied
+593|267|686|991|01/06/2021|01/07/2021|Center of Science and Culture|denied
+594|816|857|319|05/10/2021|05/11/2021|Center of Science and Culture|accepted
+595|752|95|357|11/11/2021|11/12/2021|Center of Science and Culture|pending
+596|425|352|871|19/05/2021|19/06/2021|Center of Science and Culture|denied
+597|672|37|305|23/08/2021|23/09/2021|Embassy|accepted
+598|870|769|1010|09/12/2021|09/01/2022|Embassy|accepted
+599|276|369|229|04/06/2021|04/07/2021|Center of Science and Culture|accepted
+600|591|826|400|12/09/2021|12/10/2021|Center of Science and Culture|accepted
+601|666|190|1020|27/07/2021|27/08/2021|Embassy|accepted
+602|18|606|655|14/03/2021|14/04/2021|Center of Science and Culture|pending
+603|286|356|861|07/07/2021|07/08/2021|Center of Science and Culture|denied
+604|491|1008|819|29/11/2021|29/12/2021|Center of Science and Culture|accepted
+605|536|437|395|04/08/2021|04/09/2021|Embassy|pending
+606|109|237|620|12/01/2021|12/02/2021|Embassy|accepted
+607|319|1012|265|09/06/2021|09/07/2021|Embassy|accepted
+608|106|323|818|22/11/2021|22/12/2021|Center of Science and Culture|denied
+609|84|917|186|18/10/2021|18/11/2021|Embassy|pending
+610|95|132|356|19/10/2021|19/11/2021|Embassy|accepted
+611|248|192|737|14/07/2021|14/08/2021|Embassy|accepted
+612|369|33|649|29/10/2021|29/11/2021|Embassy|denied
+613|98|462|440|21/10/2021|21/11/2021|Center of Science and Culture|pending
+614|35|670|1044|16/10/2021|16/11/2021|Embassy|pending
+615|122|838|510|22/08/2021|22/09/2021|Embassy|pending
+616|615|96|933|11/07/2021|11/08/2021|Embassy|accepted
+617|483|711|338|07/05/2021|07/06/2021|Center of Science and Culture|pending
+618|982|766|152|18/06/2021|18/07/2021|Embassy|pending
+619|234|1001|682|30/03/2021|30/04/2021|Center of Science and Culture|denied
+620|481|652|477|16/07/2021|16/08/2021|Embassy|pending
+621|445|944|906|12/11/2021|12/12/2021|Center of Science and Culture|pending
+622|367|777|1037|24/03/2021|24/04/2021|Center of Science and Culture|pending
+623|117|241|95|12/09/2021|12/10/2021|Embassy|accepted
+624|519|847|774|18/03/2021|18/04/2021|Center of Science and Culture|pending
+625|273|926|109|15/05/2021|15/06/2021|Embassy|pending
+626|411|648|797|04/10/2021|04/11/2021|Embassy|accepted
+627|729|941|668|17/04/2021|17/05/2021|Center of Science and Culture|denied
+628|554|405|350|26/05/2021|26/06/2021|Embassy|accepted
+629|802|817|331|01/05/2021|01/06/2021|Embassy|pending
+630|1|679|920|26/11/2021|26/12/2021|Center of Science and Culture|denied
+631|85|289|375|12/08/2021|12/09/2021|Center of Science and Culture|accepted
+632|1007|278|216|24/03/2021|24/04/2021|Center of Science and Culture|pending
+633|445|912|970|30/04/2021|30/05/2021|Embassy|denied
+634|573|625|580|15/08/2021|15/09/2021|Embassy|pending
+635|957|679|134|28/10/2021|28/11/2021|Embassy|denied
+636|618|736|206|26/06/2021|26/07/2021|Embassy|pending
+637|104|493|550|04/12/2021|04/01/2022|Center of Science and Culture|denied
+638|818|283|10|18/08/2021|18/09/2021|Embassy|pending
+639|150|846|392|13/11/2021|13/12/2021|Embassy|pending
+640|916|174|393|25/06/2021|25/07/2021|Center of Science and Culture|accepted
+641|810|1001|849|27/04/2021|27/05/2021|Embassy|pending
+642|1021|1005|591|15/01/2021|15/02/2021|Embassy|denied
+643|415|247|9|25/10/2021|25/11/2021|Center of Science and Culture|pending
+644|828|496|601|17/04/2021|17/05/2021|Embassy|accepted
+645|563|507|796|13/05/2021|13/06/2021|Center of Science and Culture|denied
+646|1041|6|555|28/06/2021|28/07/2021|Center of Science and Culture|denied
+647|63|259|454|10/12/2021|10/01/2022|Embassy|pending
+648|403|436|146|13/08/2021|13/09/2021|Embassy|denied
+649|246|931|590|20/08/2021|20/09/2021|Center of Science and Culture|pending
+650|513|552|704|18/06/2021|18/07/2021|Embassy|pending
+651|1037|1050|953|19/09/2021|19/10/2021|Center of Science and Culture|accepted
+652|274|353|1026|03/05/2021|03/06/2021|Embassy|pending
+653|936|268|283|03/08/2021|03/09/2021|Embassy|accepted
+654|601|85|541|27/02/2021|27/03/2021|Embassy|pending
+655|308|1050|598|28/03/2021|28/04/2021|Center of Science and Culture|pending
+656|649|287|581|02/05/2021|02/06/2021|Center of Science and Culture|pending
+657|20|31|176|22/11/2021|22/12/2021|Embassy|denied
+658|783|892|399|14/03/2021|14/04/2021|Embassy|denied
+659|762|73|430|15/02/2021|15/03/2021|Embassy|accepted
+660|239|1029|529|17/12/2021|17/01/2022|Embassy|denied
+661|681|867|520|22/01/2021|22/02/2021|Center of Science and Culture|pending
+662|93|937|343|15/08/2021|15/09/2021|Embassy|accepted
+663|67|567|729|08/08/2021|08/09/2021|Center of Science and Culture|accepted
+664|102|436|290|29/03/2021|29/04/2021|Center of Science and Culture|pending
+665|610|570|624|16/06/2021|16/07/2021|Embassy|denied
+666|110|256|186|28/11/2021|28/12/2021|Center of Science and Culture|denied
+667|488|397|885|19/11/2021|19/12/2021|Embassy|accepted
+668|462|718|83|12/05/2021|12/06/2021|Embassy|denied
+669|992|275|371|05/01/2021|05/02/2021|Embassy|accepted
+670|844|96|109|05/09/2021|05/10/2021|Center of Science and Culture|denied
+671|987|380|1010|13/06/2021|13/07/2021|Embassy|pending
+672|454|547|494|15/05/2021|15/06/2021|Center of Science and Culture|accepted
+673|876|380|378|17/02/2021|17/03/2021|Embassy|accepted
+674|173|648|400|22/09/2021|22/10/2021|Center of Science and Culture|pending
+675|745|118|987|08/02/2021|08/03/2021|Embassy|pending
+676|552|1020|690|17/10/2021|17/11/2021|Center of Science and Culture|accepted
+677|756|443|619|18/04/2021|18/05/2021|Center of Science and Culture|accepted
+678|321|638|783|05/11/2021|05/12/2021|Center of Science and Culture|pending
+679|993|304|676|09/09/2021|09/10/2021|Embassy|accepted
+680|587|639|453|19/07/2021|19/08/2021|Embassy|pending
+681|850|311|892|17/10/2021|17/11/2021|Center of Science and Culture|accepted
+682|485|420|67|18/10/2021|18/11/2021|Embassy|denied
+683|415|304|330|23/11/2021|23/12/2021|Embassy|accepted
+684|943|896|19|16/10/2021|16/11/2021|Center of Science and Culture|denied
+685|920|318|704|27/04/2021|27/05/2021|Center of Science and Culture|accepted
+686|585|430|653|25/02/2021|25/03/2021|Embassy|denied
+687|524|750|1039|05/02/2021|05/03/2021|Embassy|pending
+688|482|143|388|10/11/2021|10/12/2021|Embassy|denied
+689|725|984|519|30/11/2021|30/12/2021|Embassy|pending
+690|481|700|485|13/08/2021|13/09/2021|Center of Science and Culture|accepted
+691|286|150|175|11/02/2021|11/03/2021|Center of Science and Culture|pending
+692|842|739|492|10/02/2021|10/03/2021|Embassy|pending
+693|800|1043|706|17/11/2021|17/12/2021|Center of Science and Culture|pending
+694|459|854|334|25/04/2021|25/05/2021|Embassy|denied
+695|1002|984|990|12/11/2021|12/12/2021|Embassy|accepted
+696|301|842|268|17/03/2021|17/04/2021|Embassy|denied
+697|96|658|520|21/02/2021|21/03/2021|Center of Science and Culture|pending
+698|854|595|8|17/03/2021|17/04/2021|Center of Science and Culture|denied
+699|1002|740|588|18/09/2021|18/10/2021|Center of Science and Culture|pending
+700|841|504|1021|25/04/2021|25/05/2021|Embassy|denied
+701|383|590|796|26/11/2021|26/12/2021|Center of Science and Culture|accepted
+702|836|299|255|22/04/2021|22/05/2021|Embassy|pending
+703|857|992|127|09/02/2021|09/03/2021|Center of Science and Culture|pending
+704|38|923|1004|24/12/2021|24/01/2022|Embassy|pending
+705|592|94|165|09/01/2021|09/02/2021|Embassy|denied
+706|957|739|162|27/04/2021|27/05/2021|Embassy|pending
+707|204|64|331|10/04/2021|10/05/2021|Embassy|accepted
+708|780|653|954|20/07/2021|20/08/2021|Embassy|pending
+709|316|203|280|30/06/2021|30/07/2021|Center of Science and Culture|denied
+710|374|322|854|12/03/2021|12/04/2021|Embassy|accepted
+711|767|97|549|11/05/2021|11/06/2021|Embassy|denied
+712|140|440|514|26/06/2021|26/07/2021|Center of Science and Culture|accepted
+713|74|755|816|06/09/2021|06/10/2021|Center of Science and Culture|pending
+714|783|748|769|31/12/2021|31/01/2022|Center of Science and Culture|pending
+715|41|973|908|26/12/2021|26/01/2022|Center of Science and Culture|denied
+716|57|829|476|03/03/2021|03/04/2021|Embassy|accepted
+717|682|82|349|05/03/2021|05/04/2021|Center of Science and Culture|denied
+718|603|622|201|09/12/2021|09/01/2022|Embassy|accepted
+719|218|463|854|28/01/2021|28/02/2021|Embassy|denied
+720|733|479|977|11/01/2021|11/02/2021|Embassy|denied
+721|320|863|428|06/04/2021|06/05/2021|Center of Science and Culture|accepted
+722|408|334|584|24/09/2021|24/10/2021|Center of Science and Culture|accepted
+723|180|288|289|13/12/2021|13/01/2022|Embassy|denied
+724|423|955|854|27/11/2021|27/12/2021|Center of Science and Culture|pending
+725|549|185|554|22/04/2021|22/05/2021|Embassy|denied
+726|140|879|1022|21/12/2021|21/01/2022|Embassy|denied
+727|997|103|812|25/03/2021|25/04/2021|Embassy|pending
+728|936|286|402|28/11/2021|28/12/2021|Embassy|pending
+729|591|208|731|18/12/2021|18/01/2022|Center of Science and Culture|pending
+730|244|295|967|14/01/2021|14/02/2021|Center of Science and Culture|denied
+731|504|839|844|01/02/2021|01/03/2021|Center of Science and Culture|pending
+732|916|507|823|19/01/2021|19/02/2021|Center of Science and Culture|accepted
+733|239|22|940|17/05/2021|17/06/2021|Center of Science and Culture|accepted
+734|126|644|578|16/12/2021|16/01/2022|Center of Science and Culture|accepted
+735|166|570|519|25/10/2021|25/11/2021|Center of Science and Culture|denied
+736|357|290|391|22/11/2021|22/12/2021|Embassy|accepted
+737|440|771|856|01/08/2021|01/09/2021|Embassy|denied
+738|471|641|58|02/09/2021|02/10/2021|Center of Science and Culture|pending
+739|509|365|897|24/12/2021|24/01/2022|Center of Science and Culture|denied
+740|952|802|977|07/06/2021|07/07/2021|Center of Science and Culture|pending
+741|755|70|995|27/11/2021|27/12/2021|Center of Science and Culture|accepted
+742|58|947|414|26/08/2021|26/09/2021|Embassy|accepted
+743|862|64|806|17/02/2021|17/03/2021|Embassy|accepted
+744|553|158|111|21/04/2021|21/05/2021|Embassy|pending
+745|34|799|670|03/10/2021|03/11/2021|Center of Science and Culture|denied
+746|65|49|48|16/01/2021|16/02/2021|Embassy|accepted
+747|911|503|979|18/06/2021|18/07/2021|Embassy|accepted
+748|274|99|793|19/02/2021|19/03/2021|Embassy|pending
+749|313|215|1028|25/12/2021|25/01/2022|Center of Science and Culture|denied
+750|542|564|453|14/05/2021|14/06/2021|Center of Science and Culture|accepted
+751|919|756|806|13/03/2021|13/04/2021|Center of Science and Culture|denied
+752|980|1047|809|29/05/2021|29/06/2021|Center of Science and Culture|denied
+753|503|645|1013|08/07/2021|08/08/2021|Center of Science and Culture|pending
+754|958|448|1017|14/09/2021|14/10/2021|Embassy|pending
+755|292|424|655|29/10/2021|29/11/2021|Embassy|accepted
+756|438|648|666|11/03/2021|11/04/2021|Center of Science and Culture|pending
+757|1028|417|667|25/06/2021|25/07/2021|Embassy|denied
+758|379|692|1027|19/08/2021|19/09/2021|Center of Science and Culture|denied
+759|25|126|273|18/05/2021|18/06/2021|Embassy|accepted
+760|698|857|676|28/04/2021|28/05/2021|Embassy|pending
+761|916|549|556|19/07/2021|19/08/2021|Center of Science and Culture|denied
+762|834|815|248|03/11/2021|03/12/2021|Embassy|denied
+763|753|766|567|08/12/2021|08/01/2022|Center of Science and Culture|accepted
+764|530|747|876|01/09/2021|01/10/2021|Center of Science and Culture|accepted
+765|945|132|227|05/11/2021|05/12/2021|Embassy|pending
+766|289|958|693|23/05/2021|23/06/2021|Embassy|accepted
+767|98|1013|614|06/09/2021|06/10/2021|Center of Science and Culture|accepted
+768|139|165|668|07/02/2021|07/03/2021|Embassy|accepted
+769|1018|146|68|28/04/2021|28/05/2021|Center of Science and Culture|accepted
+770|795|320|845|17/08/2021|17/09/2021|Embassy|pending
+771|38|343|968|14/01/2021|14/02/2021|Center of Science and Culture|accepted
+772|693|59|669|06/01/2021|06/02/2021|Embassy|denied
+773|473|652|795|10/03/2021|10/04/2021|Embassy|denied
+774|75|225|836|29/11/2021|29/12/2021|Center of Science and Culture|pending
+775|481|209|730|17/12/2021|17/01/2022|Embassy|denied
+776|1006|915|754|01/03/2021|01/04/2021|Embassy|pending
+777|117|29|224|21/04/2021|21/05/2021|Center of Science and Culture|accepted
+778|666|59|991|29/06/2021|29/07/2021|Embassy|pending
+779|376|750|195|18/05/2021|18/06/2021|Embassy|pending
+780|223|763|401|27/05/2021|27/06/2021|Embassy|denied
+781|657|992|716|23/12/2021|23/01/2022|Center of Science and Culture|denied
+782|452|308|1008|10/12/2021|10/01/2022|Embassy|accepted
+783|462|805|511|18/01/2021|18/02/2021|Center of Science and Culture|pending
+784|869|560|52|15/05/2021|15/06/2021|Embassy|pending
+785|290|78|734|01/11/2021|01/12/2021|Center of Science and Culture|denied
+786|231|251|1037|13/07/2021|13/08/2021|Center of Science and Culture|pending
+787|7|143|458|12/03/2021|12/04/2021|Embassy|denied
+788|457|342|865|05/03/2021|05/04/2021|Center of Science and Culture|accepted
+789|984|825|843|06/09/2021|06/10/2021|Center of Science and Culture|denied
+790|1007|634|635|18/12/2021|18/01/2022|Embassy|pending
+791|860|451|771|02/07/2021|02/08/2021|Embassy|pending
+792|349|774|481|22/09/2021|22/10/2021|Embassy|accepted
+793|12|1037|707|21/08/2021|21/09/2021|Embassy|pending
+794|29|543|266|15/11/2021|15/12/2021|Center of Science and Culture|pending
+795|177|215|983|03/05/2021|03/06/2021|Embassy|accepted
+796|483|116|528|12/02/2021|12/03/2021|Center of Science and Culture|pending
+797|405|141|496|25/08/2021|25/09/2021|Embassy|accepted
+798|911|463|885|07/09/2021|07/10/2021|Embassy|denied
+799|778|70|222|17/04/2021|17/05/2021|Embassy|denied
+800|926|950|443|22/12/2021|22/01/2022|Embassy|accepted
+801|211|166|88|22/07/2021|22/08/2021|Center of Science and Culture|denied
+802|630|22|991|12/02/2021|12/03/2021|Embassy|accepted
+803|176|551|321|07/11/2021|07/12/2021|Embassy|accepted
+804|465|1012|653|02/09/2021|02/10/2021|Center of Science and Culture|accepted
+805|850|163|975|29/08/2021|29/09/2021|Embassy|accepted
+806|71|829|183|27/07/2021|27/08/2021|Embassy|denied
+807|234|983|964|04/12/2021|04/01/2022|Center of Science and Culture|pending
+808|560|307|225|03/09/2021|03/10/2021|Embassy|accepted
+809|353|169|732|13/12/2021|13/01/2022|Embassy|accepted
+810|227|46|402|17/09/2021|17/10/2021|Center of Science and Culture|accepted
+811|27|1024|436|28/11/2021|28/12/2021|Embassy|pending
+812|427|937|159|21/11/2021|21/12/2021|Embassy|pending
+813|590|839|488|06/03/2021|06/04/2021|Center of Science and Culture|pending
+814|822|162|83|29/12/2021|29/01/2022|Embassy|accepted
+815|1049|212|508|25/03/2021|25/04/2021|Center of Science and Culture|denied
+816|712|626|979|10/04/2021|10/05/2021|Embassy|pending
+817|204|635|91|24/04/2021|24/05/2021|Center of Science and Culture|accepted
+818|65|559|453|31/08/2021|31/09/2021|Center of Science and Culture|pending
+819|286|499|303|10/11/2021|10/12/2021|Center of Science and Culture|denied
+820|21|752|712|15/01/2021|15/02/2021|Center of Science and Culture|denied
+821|737|201|800|04/06/2021|04/07/2021|Center of Science and Culture|pending
+822|158|715|123|13/08/2021|13/09/2021|Embassy|accepted
+823|807|757|397|11/07/2021|11/08/2021|Embassy|accepted
+824|454|576|606|13/12/2021|13/01/2022|Embassy|pending
+825|802|690|878|26/01/2021|26/02/2021|Center of Science and Culture|accepted
+826|782|41|919|07/02/2021|07/03/2021|Embassy|denied
+827|907|963|407|24/04/2021|24/05/2021|Embassy|denied
+828|1043|886|953|29/11/2021|29/12/2021|Center of Science and Culture|pending
+829|320|317|100|07/04/2021|07/05/2021|Center of Science and Culture|accepted
+830|817|595|247|22/05/2021|22/06/2021|Embassy|pending
+831|691|801|470|28/10/2021|28/11/2021|Center of Science and Culture|accepted
+832|848|272|492|16/08/2021|16/09/2021|Embassy|denied
+833|58|627|223|28/03/2021|28/04/2021|Center of Science and Culture|accepted
+834|468|921|757|06/02/2021|06/03/2021|Embassy|accepted
+835|939|184|1048|12/06/2021|12/07/2021|Embassy|pending
+836|980|56|341|23/02/2021|23/03/2021|Embassy|denied
+837|593|893|413|24/05/2021|24/06/2021|Center of Science and Culture|accepted
+838|899|661|740|16/10/2021|16/11/2021|Embassy|denied
+839|466|778|288|12/01/2021|12/02/2021|Embassy|denied
+840|874|407|195|28/08/2021|28/09/2021|Center of Science and Culture|accepted
+841|598|157|6|04/04/2021|04/05/2021|Center of Science and Culture|accepted
+842|569|537|29|10/07/2021|10/08/2021|Center of Science and Culture|accepted
+843|933|30|854|29/11/2021|29/12/2021|Embassy|pending
+844|511|361|961|12/05/2021|12/06/2021|Center of Science and Culture|pending
+845|526|568|823|16/11/2021|16/12/2021|Embassy|pending
+846|42|359|414|09/10/2021|09/11/2021|Embassy|denied
+847|8|752|462|30/03/2021|30/04/2021|Embassy|denied
+848|820|736|144|05/06/2021|05/07/2021|Embassy|pending
+849|454|497|984|20/03/2021|20/04/2021|Center of Science and Culture|denied
+850|841|896|628|13/10/2021|13/11/2021|Center of Science and Culture|accepted
+851|38|182|777|24/10/2021|24/11/2021|Center of Science and Culture|accepted
+852|921|175|372|09/08/2021|09/09/2021|Center of Science and Culture|pending
+853|510|100|406|13/09/2021|13/10/2021|Center of Science and Culture|denied
+854|363|605|593|29/08/2021|29/09/2021|Center of Science and Culture|accepted
+855|959|435|691|26/03/2021|26/04/2021|Center of Science and Culture|pending
+856|213|264|467|16/10/2021|16/11/2021|Center of Science and Culture|accepted
+857|632|505|594|09/01/2021|09/02/2021|Center of Science and Culture|pending
+858|100|72|588|05/12/2021|05/01/2022|Embassy|pending
+859|591|211|778|26/01/2021|26/02/2021|Embassy|pending
+860|610|1044|235|06/01/2021|06/02/2021|Embassy|accepted
+861|171|709|46|07/04/2021|07/05/2021|Embassy|denied
+862|25|417|369|14/06/2021|14/07/2021|Embassy|pending
+863|930|194|361|25/07/2021|25/08/2021|Embassy|accepted
+864|278|440|177|27/03/2021|27/04/2021|Center of Science and Culture|accepted
+865|427|860|1023|15/01/2021|15/02/2021|Embassy|accepted
+866|879|431|297|17/05/2021|17/06/2021|Embassy|pending
+867|448|221|86|25/02/2021|25/03/2021|Center of Science and Culture|pending
+868|900|599|933|04/01/2021|04/02/2021|Embassy|denied
+869|94|581|1035|10/09/2021|10/10/2021|Embassy|pending
+870|537|118|1010|08/06/2021|08/07/2021|Center of Science and Culture|pending
+871|121|103|528|20/07/2021|20/08/2021|Center of Science and Culture|denied
+872|210|214|90|01/11/2021|01/12/2021|Embassy|denied
+873|254|327|732|09/09/2021|09/10/2021|Center of Science and Culture|pending
+874|217|506|285|20/05/2021|20/06/2021|Center of Science and Culture|accepted
+875|618|782|143|13/07/2021|13/08/2021|Center of Science and Culture|accepted
+876|427|569|904|18/08/2021|18/09/2021|Center of Science and Culture|pending
+877|334|922|496|03/04/2021|03/05/2021|Embassy|pending
+878|112|1024|289|27/02/2021|27/03/2021|Embassy|pending
+879|504|572|225|08/08/2021|08/09/2021|Embassy|denied
+880|406|169|80|30/10/2021|30/11/2021|Embassy|accepted
+881|1043|318|708|13/04/2021|13/05/2021|Center of Science and Culture|accepted
+882|594|1009|253|07/05/2021|07/06/2021|Embassy|denied
+883|506|146|1038|03/07/2021|03/08/2021|Center of Science and Culture|pending
+884|203|56|216|09/09/2021|09/10/2021|Center of Science and Culture|accepted
+885|941|518|127|31/08/2021|31/09/2021|Embassy|pending
+886|90|911|621|27/03/2021|27/04/2021|Center of Science and Culture|accepted
+887|795|57|837|25/09/2021|25/10/2021|Center of Science and Culture|pending
+888|638|71|1012|06/10/2021|06/11/2021|Embassy|accepted
+889|41|451|676|24/03/2021|24/04/2021|Center of Science and Culture|accepted
+890|338|591|646|07/06/2021|07/07/2021|Embassy|pending
+891|368|514|451|01/01/2021|01/02/2021|Center of Science and Culture|pending
+892|269|807|266|20/09/2021|20/10/2021|Embassy|accepted
+893|1003|376|126|03/11/2021|03/12/2021|Embassy|pending
+894|686|354|442|27/10/2021|27/11/2021|Embassy|pending
+895|258|300|540|08/04/2021|08/05/2021|Center of Science and Culture|denied
+896|617|567|132|16/03/2021|16/04/2021|Embassy|denied
+897|651|551|627|12/06/2021|12/07/2021|Embassy|pending
+898|694|340|510|04/04/2021|04/05/2021|Center of Science and Culture|denied
+899|166|281|84|23/09/2021|23/10/2021|Embassy|denied
+900|427|62|224|02/02/2021|02/03/2021|Embassy|denied
+901|244|163|823|05/08/2021|05/09/2021|Center of Science and Culture|pending
+902|159|948|68|24/06/2021|24/07/2021|Embassy|accepted
+903|114|435|576|22/10/2021|22/11/2021|Center of Science and Culture|denied
+904|389|143|1043|03/12/2021|03/01/2022|Center of Science and Culture|denied
+905|449|669|36|05/10/2021|05/11/2021|Center of Science and Culture|accepted
+906|92|268|314|20/06/2021|20/07/2021|Embassy|accepted
+907|361|31|324|16/12/2021|16/01/2022|Center of Science and Culture|accepted
+908|144|434|359|27/10/2021|27/11/2021|Embassy|denied
+909|613|855|703|07/07/2021|07/08/2021|Center of Science and Culture|denied
+910|793|80|973|15/01/2021|15/02/2021|Center of Science and Culture|pending
+911|866|315|83|28/12/2021|28/01/2022|Embassy|denied
+912|685|223|342|23/08/2021|23/09/2021|Embassy|denied
+913|666|231|571|09/12/2021|09/01/2022|Center of Science and Culture|pending
+914|539|800|364|08/12/2021|08/01/2022|Embassy|denied
+915|783|865|676|25/10/2021|25/11/2021|Center of Science and Culture|accepted
+916|210|238|354|27/01/2021|27/02/2021|Embassy|pending
+917|806|883|390|07/03/2021|07/04/2021|Embassy|denied
+918|1040|542|388|27/04/2021|27/05/2021|Center of Science and Culture|pending
+919|345|46|558|19/09/2021|19/10/2021|Embassy|accepted
+920|743|222|27|14/08/2021|14/09/2021|Center of Science and Culture|pending
+921|217|492|150|03/04/2021|03/05/2021|Embassy|accepted
+922|174|373|30|09/06/2021|09/07/2021|Embassy|denied
+923|292|135|485|13/04/2021|13/05/2021|Embassy|accepted
+924|110|137|325|16/02/2021|16/03/2021|Center of Science and Culture|pending
+925|199|238|362|30/12/2021|30/01/2022|Center of Science and Culture|denied
+926|302|775|324|13/01/2021|13/02/2021|Embassy|accepted
+927|128|866|860|19/07/2021|19/08/2021|Embassy|pending
+928|387|231|1043|23/06/2021|23/07/2021|Embassy|pending
+929|1008|624|727|06/12/2021|06/01/2022|Center of Science and Culture|denied
+930|453|411|548|13/09/2021|13/10/2021|Center of Science and Culture|accepted
+931|488|585|328|18/12/2021|18/01/2022|Embassy|pending
+932|114|275|684|14/12/2021|14/01/2022|Embassy|denied
+933|326|457|903|23/09/2021|23/10/2021|Embassy|denied
+934|848|1044|619|09/10/2021|09/11/2021|Embassy|pending
+935|144|869|620|10/05/2021|10/06/2021|Center of Science and Culture|pending
+936|837|306|83|09/08/2021|09/09/2021|Embassy|denied
+937|83|565|858|08/03/2021|08/04/2021|Embassy|pending
+938|820|232|222|23/07/2021|23/08/2021|Center of Science and Culture|pending
+939|167|781|1023|03/06/2021|03/07/2021|Center of Science and Culture|pending
+940|117|630|4|08/08/2021|08/09/2021|Embassy|accepted
+941|277|1035|848|11/03/2021|11/04/2021|Embassy|denied
+942|327|878|128|10/09/2021|10/10/2021|Center of Science and Culture|pending
+943|538|600|556|23/05/2021|23/06/2021|Embassy|denied
+944|570|139|541|22/05/2021|22/06/2021|Embassy|pending
+945|982|503|832|02/02/2021|02/03/2021|Center of Science and Culture|denied
+946|1028|112|174|10/12/2021|10/01/2022|Embassy|accepted
+947|617|1049|231|17/03/2021|17/04/2021|Center of Science and Culture|denied
+948|364|239|567|13/03/2021|13/04/2021|Embassy|denied
+949|283|657|196|09/05/2021|09/06/2021|Center of Science and Culture|pending
+950|12|422|524|15/03/2021|15/04/2021|Embassy|accepted
+951|821|290|663|26/08/2021|26/09/2021|Center of Science and Culture|accepted
+952|940|26|907|16/03/2021|16/04/2021|Embassy|denied
+953|15|4|993|10/03/2021|10/04/2021|Embassy|denied
+954|734|841|438|28/05/2021|28/06/2021|Center of Science and Culture|pending
+955|775|1048|299|22/10/2021|22/11/2021|Embassy|pending
+956|584|62|48|21/05/2021|21/06/2021|Embassy|denied
+957|741|913|403|26/08/2021|26/09/2021|Center of Science and Culture|pending
+958|567|858|213|08/11/2021|08/12/2021|Embassy|accepted
+959|728|453|855|06/02/2021|06/03/2021|Center of Science and Culture|pending
+960|681|483|202|10/03/2021|10/04/2021|Center of Science and Culture|denied
+961|4|507|192|05/11/2021|05/12/2021|Embassy|denied
+962|710|89|404|05/01/2021|05/02/2021|Embassy|denied
+963|125|120|603|24/04/2021|24/05/2021|Center of Science and Culture|pending
+964|106|707|188|24/04/2021|24/05/2021|Embassy|denied
+965|436|967|159|12/09/2021|12/10/2021|Embassy|accepted
+966|77|274|354|31/07/2021|31/08/2021|Embassy|accepted
+967|875|509|94|31/12/2021|31/01/2022|Embassy|denied
+968|13|974|808|08/04/2021|08/05/2021|Embassy|accepted
+969|718|34|754|30/06/2021|30/07/2021|Embassy|accepted
+970|793|260|788|22/07/2021|22/08/2021|Center of Science and Culture|pending
+971|991|191|294|17/08/2021|17/09/2021|Embassy|denied
+972|972|139|22|09/01/2021|09/02/2021|Center of Science and Culture|accepted
+973|1010|876|744|03/11/2021|03/12/2021|Embassy|denied
+974|606|836|678|27/01/2021|27/02/2021|Embassy|denied
+975|367|877|212|08/11/2021|08/12/2021|Embassy|accepted
+976|110|722|650|31/10/2021|31/11/2021|Embassy|pending
+977|745|390|536|18/09/2021|18/10/2021|Center of Science and Culture|denied
+978|667|686|767|14/03/2021|14/04/2021|Center of Science and Culture|denied
+979|941|139|378|19/03/2021|19/04/2021|Embassy|denied
+980|139|634|719|18/05/2021|18/06/2021|Center of Science and Culture|pending
+981|547|700|518|23/11/2021|23/12/2021|Embassy|pending
+982|971|380|70|20/12/2021|20/01/2022|Center of Science and Culture|accepted
+983|262|394|704|06/11/2021|06/12/2021|Center of Science and Culture|denied
+984|253|661|593|21/12/2021|21/01/2022|Center of Science and Culture|denied
+985|793|178|701|08/04/2021|08/05/2021|Embassy|accepted
+986|710|933|783|27/02/2021|27/03/2021|Embassy|accepted
+987|636|244|934|23/02/2021|23/03/2021|Embassy|accepted
+988|874|71|197|21/06/2021|21/07/2021|Center of Science and Culture|pending
+989|515|515|721|19/04/2021|19/05/2021|Embassy|pending
+990|610|282|261|15/06/2021|15/07/2021|Embassy|denied
+991|1001|1008|1034|25/11/2021|25/12/2021|Center of Science and Culture|denied
+992|676|379|232|12/02/2021|12/03/2021|Center of Science and Culture|accepted
+993|23|734|232|11/12/2021|11/01/2022|Embassy|accepted
+994|231|874|854|07/08/2021|07/09/2021|Center of Science and Culture|accepted
+995|548|484|314|23/06/2021|23/07/2021|Embassy|denied
+996|553|97|79|13/08/2021|13/09/2021|Embassy|pending
+997|711|950|296|04/06/2021|04/07/2021|Center of Science and Culture|accepted
+998|287|966|1042|21/05/2021|21/06/2021|Center of Science and Culture|pending
+999|871|326|568|04/01/2021|04/02/2021|Embassy|denied
+1000|1037|530|834|01/09/2021|01/10/2021|Center of Science and Culture|denied
+1001|222|80|281|01/08/2021|01/09/2021|Embassy|accepted
+1002|584|333|988|26/03/2021|26/04/2021|Center of Science and Culture|denied
+1003|532|289|372|28/01/2021|28/02/2021|Embassy|denied
+1004|298|512|118|15/10/2021|15/11/2021|Center of Science and Culture|pending
+1005|393|993|243|07/02/2021|07/03/2021|Embassy|accepted
+1006|64|950|286|24/07/2021|24/08/2021|Center of Science and Culture|denied
+1007|726|58|970|31/03/2021|31/04/2021|Center of Science and Culture|accepted
+1008|114|14|892|28/05/2021|28/06/2021|Center of Science and Culture|pending
+1009|268|839|534|06/02/2021|06/03/2021|Center of Science and Culture|denied
+1010|839|451|607|12/02/2021|12/03/2021|Center of Science and Culture|pending
+1011|684|315|164|08/09/2021|08/10/2021|Center of Science and Culture|accepted
+1012|436|972|662|24/09/2021|24/10/2021|Center of Science and Culture|denied
+1013|823|47|596|07/11/2021|07/12/2021|Embassy|accepted
+1014|442|332|124|23/06/2021|23/07/2021|Embassy|pending
+1015|419|240|402|02/12/2021|02/01/2022|Center of Science and Culture|accepted
+1016|663|954|309|19/12/2021|19/01/2022|Embassy|pending
+1017|221|974|237|14/01/2021|14/02/2021|Embassy|accepted
+1018|201|649|96|09/12/2021|09/01/2022|Embassy|denied
+1019|855|114|861|10/06/2021|10/07/2021|Embassy|accepted
+1020|991|933|364|22/05/2021|22/06/2021|Embassy|denied
+1021|248|916|326|22/04/2021|22/05/2021|Embassy|pending
+1022|697|66|666|18/11/2021|18/12/2021|Embassy|pending
+1023|321|39|974|23/12/2021|23/01/2022|Embassy|denied
+1024|846|1033|444|19/10/2021|19/11/2021|Center of Science and Culture|accepted
+1025|278|467|222|27/09/2021|27/10/2021|Center of Science and Culture|denied
+1026|90|708|111|07/12/2021|07/01/2022|Embassy|denied
+1027|249|75|551|12/03/2021|12/04/2021|Embassy|denied
+1028|313|584|613|13/01/2021|13/02/2021|Center of Science and Culture|accepted
+1029|551|1000|93|27/08/2021|27/09/2021|Center of Science and Culture|accepted
+1030|1037|663|278|09/10/2021|09/11/2021|Embassy|pending
+1031|451|548|478|26/02/2021|26/03/2021|Embassy|pending
+1032|328|372|918|13/01/2021|13/02/2021|Embassy|accepted
+1033|362|929|93|31/05/2021|31/06/2021|Embassy|denied
+1034|254|357|369|27/09/2021|27/10/2021|Center of Science and Culture|denied
+1035|428|937|825|06/04/2021|06/05/2021|Center of Science and Culture|pending
+1036|437|121|300|29/03/2021|29/04/2021|Embassy|accepted
+1037|925|405|162|08/02/2021|08/03/2021|Embassy|pending
+1038|795|592|970|12/10/2021|12/11/2021|Center of Science and Culture|denied
+1039|28|188|733|03/06/2021|03/07/2021|Embassy|accepted
+1040|385|178|980|18/10/2021|18/11/2021|Center of Science and Culture|pending
+1041|298|946|59|14/08/2021|14/09/2021|Center of Science and Culture|accepted
+1042|184|1018|142|26/12/2021|26/01/2022|Embassy|pending
+1043|1037|970|686|17/01/2021|17/02/2021|Center of Science and Culture|denied
+1044|1017|682|1049|20/09/2021|20/10/2021|Center of Science and Culture|accepted
+1045|545|684|668|20/10/2021|20/11/2021|Center of Science and Culture|pending
+1046|1038|896|100|15/11/2021|15/12/2021|Center of Science and Culture|pending
+1047|441|21|297|03/05/2021|03/06/2021|Center of Science and Culture|pending
+1048|155|163|753|23/02/2021|23/03/2021|Center of Science and Culture|accepted
+1049|384|261|334|29/10/2021|29/11/2021|Center of Science and Culture|denied
+1050|274|535|498|06/09/2021|06/10/2021|Embassy|denied

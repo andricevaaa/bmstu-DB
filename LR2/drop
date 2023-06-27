@@ -1,0 +1,12 @@
+-- select EID
+-- from CustExec 
+-- join(
+-- 	select  Customer.FIO, Customer.WorkExperience
+-- 	from Customer
+-- 	where Customer.WorkExperience > 15
+-- ) cust_new on CustExec.CID = cust_new.c_id
+-- where cust_new.c_id > 2
+
+SELECT Executor.FIO, Executor.Telephone, Executor.WorkExperience, Executor.YearBorn FROM Executor 
+JOIN LATERAL (SELECT fio, telephone, WorkExperience, YearBorn FROM Customer WHERE telephone = Executor.Telephone) AS NewCustExec
+ON NewCustExec.Telephone = Executor.Telephone;

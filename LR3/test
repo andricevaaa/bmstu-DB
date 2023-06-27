@@ -1,0 +1,21 @@
+-- DROP TABLE tbl
+
+CREATE OR REPLACE FUNCTION find_students(UniID INT)
+RETURNS TABLE (
+    FName VARCHAR,
+	LName VARCHAR
+) AS $$
+BEGIN
+    CREATE TEMP TABLE tbl (
+		FName VARCHAR,
+		LName VARCHAR
+    );
+    INSERT INTO tbl (FName, LName)
+    SELECT FirstName, LastName
+	FROM sch.Application JOIN sch.Applicant ON sch.Application.ApplicantID = sch.Applicant.ApplicantID
+ 	WHERE sch.Application.UniversityID = UniID;
+    RETURN QUERY
+    SELECT * FROM tbl;
+END;
+$$ LANGUAGE PLPGSQL;
+SELECT * FROM find_students(27);

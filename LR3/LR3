@@ -1,0 +1,218 @@
+-- A
+-- 1) Скалярная функция
+-- Вывести сколько денег от стипендии у студентов после оплаты общежития
+
+CREATE OR REPLACE FUNCTION get_diff(AccPayment INT, Allowance INT)
+RETURNS INT AS $$
+BEGIN
+	RETURN Allowance - AccPayment;
+END;
+$$ LANGUAGE PLPGSQL;
+SELECT get_diff(AccPayment, Allowance) FROM sch.Scholarship;
+
+-- 2) Подставляемая табличная функция
+-- Вывести все стипендии для которых нужно оценка > 4.8
+create or replace function get_scholarship(marks FLOAT) 
+RETURNS SETOF sch.Scholarship  
+AS $$
+    BEGIN
+        RETURN QUERY( 
+            SELECT *
+            FROM sch.Scholarship 
+            WHERE ConditionalMarks > marks);
+    END;
+$$ LANGUAGE plpgsql;
+
+SELECT *
+FROM get_scholarship(4.80)
+
+-- 3) Многооператорная табличная функция.. 
+-- Вывести все ученике школы
+
+CREATE OR REPLACE FUNCTION find_alumnis(AtCode INT)
+RETURNS TABLE (
+    Code INT,
+    SID INT,
+    FName VARCHAR,
+	LName VARCHAR
+) AS $$
+BEGIN
+    CREATE TEMP TABLE tbl (
+        Code INT,
+		SID INT,
+		FName VARCHAR,
+		LName VARCHAR
+    );
+    INSERT INTO tbl (Code, SID, FName, LName)
+    SELECT sch.School.AttestateCode, SchoolID, FirstName, LastName
+	FROM sch.School JOIN sch.Applicant ON sch.School.AttestateCode = sch.Applicant.AttestateCode
+ 	WHERE sch.School.AttestateCode = AtCode;
+    RETURN QUERY
+    SELECT * FROM tbl;
+END;
+$$ LANGUAGE PLPGSQL;
+SELECT * FROM find_alumnis(1354);
+
+-- 4) рекурсивная функция 
+-- вывести университетов для которых нужно боьше 300 балла
+create or replace function points_recursive(points int)
+returns setof sch.University
+as $$
+    begin
+    return query (select *
+    from sch.University
+        where sch.University.NeededPoints = points);
+    if (points > 300) then
+        return query
+        select *
+        from points_recursive(points - 1);
+    end if;
+    end
+    $$ language 'plpgsql';
+
+select * from points_recursive(350);
+
+-- B
+-- 5) Хранимая процедура с параметрами.
+-- Уменьшаем нужную оденку для студентов у которых нет общежитии
+CREATE OR REPLACE PROCEDURE change_condition(Acc VARCHAR, Mark FLOAT) 
+AS $$
+BEGIN
+		UPDATE sch.Scholarship 
+		SET ConditionalMarks = ConditionalMarks - Mark
+		WHERE sch.Scholarship.Accommodation = Acc;
+END;
+$$ LANGUAGE PLPGSQL;
+CALL change_condition('NO', 0.2);
+
+-- 6) Рекурсивная хранимая процедура.
+-- Все университети для кторых нужно меньше 200 баллов меняются на очно обучение
+CREATE OR REPLACE PROCEDURE change_uni(points int, newtype VARCHAR)
+AS $$
+BEGIN
+	UPDATE sch.University 
+	SET UniType = newtype
+	WHERE NeededPoints = points;
+	IF (points > 100) THEN 
+		CALL change_uni(points - 1, newtype);
+	END IF;
+END;
+$$ LANGUAGE PLPGSQL;  
+CALL change_uni(200, 'full-time');
+
+-- 7) Хранимую процедуру с курсором
+-- Поменять город универзитетов которые находятся в другом городе
+create or replace PROCEDURE update_city(old_city text, new_city text)
+as $$
+    declare
+        city_row record;
+        cur cursor for
+        select * from sch.University
+        where City = old_city;
+    begin
+        open cur;
+        loop
+            fetch cur into city_row;
+            exit when not found;
+            update sch.University 
+            set City = new_city
+            where sch.University.UniversityID = city_row.UniversityID;
+        end loop;
+        close cur;
+    end;
+    $$ language PLPGSQL;
+CALL  update_city('Tokyo','Kyoto');
+
+--8) Хранимую процедуру доступа к метаданным
+-- Информационная схема состоит из набора представлений, содержащих информацию об объектах, определенных в текущей базе данных.
+-- pg_relation_size принимает OID или имя таблицы, индекса или TOAST-таблицы и возвращает размер одного слоя этого отношения (в байтах). 
+-- (Заметьте, что в большинстве случаев удобнее использовать более высокоуровневые функции pg_total_relation_size и pg_table_size, которые суммируют размер всех слоёв.)
+-- С одним аргументом она возвращает размер основного слоя для данных заданного отношения.
+-- desc - сортировка в порядке убывания
+select table_name, count(*) as size
+into my_tables
+from information_schema.tables
+where table_schema = 'sch'
+group by table_name;
+
+select * from my_tables;
+
+create or replace PROCEDURE table_size()
+AS $$
+declare
+    cur cursor
+    for select table_name, size
+    from (
+        select table_name,
+        pg_relation_size(cast(table_name as varchar)) as size
+        from information_schema.tables
+        where table_schema = 'public'
+        order by size desc
+    ) AS tmp;
+         row record;
+begin
+    open cur;
+    loop
+        fetch cur into row;
+        exit when not found;
+        raise notice '{table : %} {size : %}', row.table_name, row.size;
+        update my_tables
+        set size = row.size
+        where my_tables.table_name = row.table_name;
+    end loop;
+    close cur;
+end
+$$ language plpgsql;
+
+call table_size();
+select * from my_tables;
+
+-- Триггеры
+-- 9) Триггер AFTER
+
+CREATE OR REPLACE FUNCTION get_university_rank()
+RETURNS TRIGGER
+AS $$
+BEGIN
+    IF NEW.NeededPoints < 225 THEN
+        RAISE NOTICE '% likely will be placed at the bottom of wishlist', NEW.Registration;
+    ELSE
+        RAISE NOTICE '% likely will be placed at the top of wishlist', NEW.Registration;
+    END IF;
+    RETURN NEW;
+END;
+$$ LANGUAGE PLPGSQL;
+CREATE TRIGGER uni_suggestion AFTER INSERT ON sch.University
+FOR ROW EXECUTE PROCEDURE get_university_rank();
+
+
+INSERT INTO sch.University(UniversityID, Registration, City, UniType, Specialty, StudyType, NeededPoints, UniMail)
+VALUES (1051, 254896, 'Tokyo', 'full-time', 'Science', 'bologna', 300, 'djfhsdjfh@gmail.com');
+DELETE FROM sch.University WHERE Registration = 254896;
+
+-- 10) Триггер INSTEAD OF
+
+create view scholarship as
+select *
+from sch.Scholarship;
+
+create or replace function instead_trigger() 
+returns trigger 
+as $$
+    begin
+            
+    insert into sch.Scholarship(ScholarshipID, ScholarshipType, Accommodation, AccPayment, Allowance, ConditionalMarks, Degree)
+    values(new.ScholarshipID, new.ScholarshipType, new.Accommodation, new.AccPayment, new.Allowance, new.ConditionalMarks, new.Degree);
+    RAISE NOTICE 'Запись в Scholarship: id(%), type(%), accomodation(%), payment(%), allowance(%), marks(%), degree(%)', new.ScholarshipID, new.ScholarshipType, new.Accommodation, new.AccPayment, new.Allowance, new.ConditionalMarks, new.Degree;
+        return new;
+    end;
+    $$ language 'plpgsql' ;
+
+
+CREATE TRIGGER instead_tr
+INSTEAD OF INSERT ON scholarship
+FOR EACH ROW
+EXECUTE PROCEDURE instead_trigger();
+
+insert into scholarship(ScholarshipID, ScholarshipType, Accommodation, AccPayment, Allowance, ConditionalMarks, Degree)
+values(1051, 'partial', 'YES', 1050, 3200, 5.00, 'PhD');

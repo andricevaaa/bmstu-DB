@@ -1,0 +1,192 @@
+-- 1)Из таблиц базы данных, созданной в первой лабораторной работе, извлечь
+-- данные в XML (MSSQL) или JSON(Oracle, Postgres). 
+
+copy (select to_json(University.*) from sch.University)
+to 'C:\Users\katar\Desktop\MSTU Bauman\main\Database\LR5\University.json';
+
+copy(select array_to_json(array_agg(row_to_json(t))) as "University"
+    from sch.University as t)
+  to 'C:\Users\katar\Desktop\MSTU Bauman\main\Database\LR5\University.json';
+
+-- 2)Выполнить загрузку и сохранение XML или JSON файла в таблицу.
+-- Созданная таблица после всех манипуляций должна соответствовать таблице
+-- базы данных, созданной в первой лабораторной работе.
+
+create temporary table json_import (values text);
+copy json_import from 'C:\Users\katar\Desktop\MSTU Bauman\main\Database\LR5\University.json';
+
+create table uni_json(
+    universityid serial PRIMARY KEY,
+    registration int NOT NULL,
+    city text,
+    unitype varchar(10),
+    specialty text,
+    studytype varchar(8),
+    neededpoints int NOT NULL,
+    unimail text NOT NULL
+);
+
+insert into uni_json(universityid, registration, city, unitype, specialty, studytype, neededpoints, unimail)
+SELECT (j->>'universityid')::INTEGER, (j->>'registration')::INTEGER, (j->>'city'), (j->>'unitype'), (j->>'specialty'),
+(j->>'studytype'), (j->>'neededpoints')::INTEGER, (j->>'unimail')
+from   (
+           select json_array_elements(replace(values,'\','\\')::json) as j 
+           from   json_import
+       ) a where j->'universityid' is not null ;
+select * from uni_json;
+
+DROP TABLE json_import, uni_json
+
+-- 3) Создать таблицу, в которой будет атрибут(-ы) с типом XML или JSON, или
+-- добавить атрибут с типом XML или JSON к уже существующей таблице.
+-- Заполнить атрибут правдоподобными данными с помощью команд INSERT
+-- или UPDATE. 
+
+drop table json_table;
+create table json_table(
+    schoolid serial primary key,
+    json_column json
+);
+
+insert into json_table(json_column) values 
+    ('{"schoolname": "A", "attestatecode": 2345}'::json),
+    ('{"schoolname": "BB", "attestatecode": 1928}'::json),
+    ('{"schoolname": "CCC", "attestatecode": 2567}'::json);
+
+select * from json_table;
+
+-- 4. Выполнить следующие действия:
+-- 1. Извлечь XML/JSON фрагмент из XML/JSON документа
+-- 2. Извлечь значения конкретных узлов или атрибутов XML/JSON документа
+-- 3. Выполнить проверку существования узла или атрибута
+-- 4. Изменить XML/JSON документ
+-- 5. Разделить XML/JSON документ на несколько строк по узлам
+
+-- 1. Извлечь XML/JSON фрагмент из XML/JSON документа
+-- Извлекаю все вузы, для которых нужно больше 250 баллов
+drop table json_import;
+drop table uni_json_frg;
+
+create temporary table json_import (values text);
+copy json_import from 'C:\Users\katar\Desktop\MSTU Bauman\main\Database\LR5\University.json';
+
+create table uni_json_frg(
+    universityid serial PRIMARY KEY,
+    registration int NOT NULL,
+    city text,
+    unitype varchar(10),
+    specialty text,
+    studytype varchar(8),
+    neededpoints int NOT NULL,
+    unimail text NOT NULL
+);
+
+insert into uni_json_frg(universityid, registration, city, unitype, specialty, studytype, neededpoints, unimail)
+SELECT (j->>'universityid')::INTEGER, (j->>'registration')::INTEGER, (j->>'city'), (j->>'unitype'), (j->>'specialty'),
+(j->>'studytype'), (j->>'neededpoints')::INTEGER, (j->>'unimail')
+from   (
+           select json_array_elements(replace(values,'\','\\')::json) as j 
+           from   json_import
+       ) a where j->'universityid' is not null and (j->>'neededpoints')::INTEGER > 250;
+select * from uni_json_frg;
+
+-- 2. Извлечь значения конкретных узлов или атрибутов XML/JSON документа
+
+drop table json_import;
+drop table uni_json_frg;
+
+create temporary table json_import (values text);
+copy json_import from 'C:\Users\katar\Desktop\MSTU Bauman\main\Database\LR5\University.json';
+
+create table uni_json_frg(
+    universityid serial PRIMARY KEY,
+    registration int NOT NULL,
+    city text,
+    unitype varchar(10),
+    specialty text,
+    studytype varchar(8),
+    neededpoints int NOT NULL,
+    unimail text NOT NULL
+);
+
+insert into uni_json_frg(universityid, registration, city, unitype, specialty, studytype, neededpoints, unimail)
+SELECT (j->>'universityid')::INTEGER, (j->>'registration')::INTEGER, (j->>'city'), (j->>'unitype'), (j->>'specialty'),
+(j->>'studytype'), (j->>'neededpoints')::INTEGER, (j->>'unimail')
+from   (
+           select json_array_elements(replace(values,'\','\\')::json) as j 
+           from   json_import
+       ) a where j->'universityid' is not null and j->>'city' = 'Tokyo';
+select * from uni_json_frg;
+
+-- 3. Выполнить проверку существования узла или атрибута
+
+drop table json_import;
+drop table uni_json_frg;
+
+create temporary table json_import (values text);
+copy json_import from 'C:\Users\katar\Desktop\MSTU Bauman\main\Database\LR5\University.json';
+
+create table uni_json_frg(
+    universityid serial PRIMARY KEY,
+    registration int NOT NULL,
+    city text,
+    unitype varchar(10),
+    specialty text,
+    studytype varchar(8),
+    neededpoints int NOT NULL,
+    unimail text NOT NULL
+);
+
+insert into uni_json_frg(universityid, registration, city, unitype, specialty, studytype, neededpoints, unimail)
+SELECT (j->>'universityid')::INTEGER, (j->>'registration')::INTEGER, (j->>'city'), (j->>'unitype'), (j->>'specialty'),
+(j->>'studytype'), (j->>'neededpoints')::INTEGER, (j->>'unimail')
+from   (
+           select json_array_elements(replace(values,'\','\\')::json) as j 
+           from   json_import
+       ) a where j->'universityid' is not null;
+select * from uni_json_frg;
+
+-- 4. Изменить XML/JSON документ
+
+drop table json_import;
+drop table uni_json_frg;
+
+create temporary table json_import (values text);
+copy json_import from 'C:\Users\katar\Desktop\MSTU Bauman\main\Database\LR5\University.json';
+
+create table uni_json_frg(
+    universityid serial PRIMARY KEY,
+    registration int NOT NULL,
+    city text,
+    unitype varchar(10),
+    specialty text,
+    studytype varchar(8),
+    neededpoints int NOT NULL,
+    unimail text NOT NULL
+);
+
+insert into uni_json_frg(universityid, registration, city, unitype, specialty, studytype, neededpoints, unimail)
+SELECT (j->>'universityid')::INTEGER, (j->>'registration')::INTEGER, (j->>'city'), (j->>'unitype'), (j->>'specialty'),
+(j->>'studytype'), (j->>'neededpoints')::INTEGER, (j->>'unimail')
+from   (
+           select json_array_elements(replace(values,'\','\\')::json) as j 
+           from   json_import
+       ) a where j->'universityid' is not null;
+select * from uni_json_frg;
+
+update uni_json_frg
+set city = 'Kyoto'
+where city = 'Tokyo';
+select * from uni_json_frg;
+
+
+copy(select array_to_json(array_agg(row_to_json(t))) as "University"
+    from uni_json_frg as t)
+  to 'C:\Users\katar\Desktop\MSTU Bauman\main\Database\LR5\University.json';
+  
+-- 5. Разделить XML/JSON документ на несколько строк по узлам
+
+SELECT * FROM jsonb_array_elements('[
+    {"name": "Sergey", "age": 20, "education": {"university": "BMSTU", "graduation_year": 2023}},
+    {"name": "Alexey", "age": 20, "education": {"university": "BMSTU", "graduation_year": 2023}}
+]');

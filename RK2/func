@@ -1,0 +1,29 @@
+-- select EID
+-- from CustExec 
+-- join(
+-- 	select  Customer.FIO, Customer.WorkExperience
+-- 	from Customer
+-- 	where Customer.WorkExperience > 15
+-- ) cust_new on CustExec.CID = cust_new.c_id
+-- where cust_new.c_id > 2
+CREATE OR REPLACE PROCEDURE get_indexes_info(tblname  VARCHAR)
+AS $$
+DECLARE
+    rec RECORD;
+    cur CURSOR FOR
+        SELECT pind.indexname, pind.indexdef FROM pg_indexes pind 
+        WHERE pind.schemaname = 'public' AND pind.tablename = tblname 
+        ORDER BY pind.indexname;
+BEGIN
+    OPEN cur;
+    LOOP
+        FETCH cur INTO rec;
+        RAISE NOTICE 'TABLE: %, INDEX: %s, DEFINITION: %', tblname , rec.indexname, rec.indexdef;
+        EXIT WHEN NOT FOUND;
+    END LOOP;
+    CLOSE cur;
+END;
+$$ LANGUAGE PLPGSQL;
+CALL get_indexes_info('Executor');
+CALL get_indexes_info('Customer');
+CALL get_indexes_info('Work');

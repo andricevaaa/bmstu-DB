@@ -1,0 +1,7 @@
+create or replace function most_points() RETURNS int AS $$
+    BEGIN
+        RETURN (SELECT max(NeededPoints) FROM sch.University);
+    END;
+$$ LANGUAGE plpgsql;
+
+SELECT most_points() FROM sch.University;
